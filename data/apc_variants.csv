@@ -1,0 +1,911 @@
+chrom,pos,ref,alt,label,hgvs,name,variation_id,rsid,consequence
+chr5,112707232,G,A,Benign,NC_000005.10:g.112707232G>A,NM_000038.5(APC):c.-30712G>A,506406,rs73216228,
+chr5,112707389,A,C,Benign,NC_000005.10:g.112707389A>C,NC_000005.10:g.112707389A>C,469885,rs1257642100,
+chr5,112707477,A,C,Benign,NC_000005.10:g.112707477A>C,NC_000005.10:g.112707477A>C,469867,rs190326008,
+chr5,112707585,C,G,Benign,NC_000005.10:g.112707585C>G,NM_001127511.3(APC):c.-133C>G,379246,rs79896135,5 prime UTR variant|non-coding transcript variant
+chr5,112707587,G,A,Benign,NC_000005.10:g.112707587G>A,NM_001127511.3(APC):c.-131G>A,469831,rs572582235,5 prime UTR variant|non-coding transcript variant
+chr5,112707594,C,G,Benign,NC_000005.10:g.112707594C>G,NM_001127511.3(APC):c.-124C>G,469825,rs964366695,5 prime UTR variant|non-coding transcript variant
+chr5,112707624,C,T,Benign,NC_000005.10:g.112707624C>T,NM_001127511.3(APC):c.-94C>T,1057819,rs1219858068,5 prime UTR variant|non-coding transcript variant
+chr5,112707795,C,A,Benign,NC_000005.10:g.112707795C>A,NM_001127511.3(APC):c.78C>A (p.Ser26Arg),133505,rs113782655,missense variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112707842,G,A,Benign,NC_000005.10:g.112707842G>A,NM_001127511.3(APC):c.125G>A (p.Gly42Asp),371861,rs1057517570,missense variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112707898,G,C,Benign,NC_000005.10:g.112707898G>C,NM_001127511.3(APC):c.165+16G>C,537667,rs1223298182,intron variant
+chr5,112736773,G,C,Benign,NC_000005.10:g.112736773G>C,NM_001127511.3(APC):c.165+28891G>C,1282257,rs6867376,intron variant
+chr5,112737404,G,A,Benign,NC_000005.10:g.112737404G>A,NM_001127511.3(APC):c.166-28922G>A,506405,rs116483942,intron variant
+chr5,112738572,A,G,Benign,NC_000005.10:g.112738572A>G,NM_000038.6(APC):c.-19+647A>G,82742,rs2019720,intron variant
+chr5,112738659,C,T,Benign,NC_000005.10:g.112738659C>T,NM_000038.6(APC):c.-19+734C>T,82744,rs2020383,intron variant
+chr5,112754860,T,G,Benign,NC_000005.10:g.112754860T>G,NM_000038.6(APC):c.-18-13T>G,439406,rs1554067089,intron variant
+chr5,112754908,T,G,Pathogenic,NC_000005.10:g.112754908T>G,NM_000038.6(APC):c.18T>G (p.Tyr6Ter),2584327,rs786202301,nonsense|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112754921,A,T,Pathogenic,NC_000005.10:g.112754921A>T,NM_000038.6(APC):c.31A>T (p.Lys11Ter),2102986,rs2149737581,nonsense|5 prime UTR variant|intron variant
+chr5,112754924,C,T,Pathogenic,NC_000005.10:g.112754924C>T,NM_000038.6(APC):c.34C>T (p.Gln12Ter),2830638,rs2149737617,nonsense|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112754945,G,T,Pathogenic,NC_000005.10:g.112754945G>T,NM_000038.6(APC):c.55G>T (p.Glu19Ter),970282,rs1754786861,nonsense|5 prime UTR variant|intron variant
+chr5,112754952,C,A,Pathogenic,NC_000005.10:g.112754952C>A,NM_000038.6(APC):c.62C>A (p.Ser21Ter),2584117,rs1361289668,nonsense|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112754952,C,G,Pathogenic,NC_000005.10:g.112754952C>G,NM_000038.6(APC):c.62C>G (p.Ser21Ter),1377151,rs1361289668,nonsense|5 prime UTR variant|intron variant
+chr5,112754953,A,G,Benign,NC_000005.10:g.112754953A>G,NM_000038.6(APC):c.63A>G (p.Ser21=),3148819,rs2149737991,synonymous variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112754983,C,T,Benign,NC_000005.10:g.112754983C>T,NM_000038.6(APC):c.93C>T (p.Ser31=),3148830,rs2149738329,synonymous variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112755007,T,G,Benign,NC_000005.10:g.112755007T>G,NM_000038.6(APC):c.117T>G (p.Thr39=),3148179,rs751827696,synonymous variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112766096,C,A,Benign,NC_000005.10:g.112766096C>A,NM_000038.6(APC):c.136-230C>A,82871,rs2464805,intron variant
+chr5,112766273,T,C,Benign,NC_000005.10:g.112766273T>C,NM_000038.6(APC):c.136-53T>C,82873,rs2304793,intron variant
+chr5,112766324,A,T,Pathogenic,NC_000005.10:g.112766324A>T,NM_000038.6(APC):c.136-2A>T,2017446,rs886039625,splice acceptor variant
+chr5,112766331,A,T,Benign,NC_000005.10:g.112766331A>T,NM_000038.6(APC):c.141A>T (p.Val47=),3148340,rs2149783815,5 prime UTR variant|synonymous variant|non-coding transcript variant
+chr5,112766335,A,T,Pathogenic,NC_000005.10:g.112766335A>T,NM_000038.6(APC):c.145A>T (p.Lys49Ter),819274,rs1581160030,nonsense|5 prime UTR variant
+chr5,112766338,C,T,Pathogenic,NC_000005.10:g.112766338C>T,NM_000038.6(APC):c.148C>T (p.Gln50Ter),1074221,rs1756316465,nonsense|5 prime UTR variant
+chr5,112766344,C,T,Pathogenic,NC_000005.10:g.112766344C>T,NM_000038.6(APC):c.154C>T (p.Gln52Ter),490213,rs786202584,nonsense|5 prime UTR variant
+chr5,112766367,T,A,Benign,NC_000005.10:g.112766367T>A,NM_000038.6(APC):c.177T>A (p.Ala59=),3148006,rs2532272766,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112766376,T,C,Benign,NC_000005.10:g.112766376T>C,NM_000038.6(APC):c.186T>C (p.Ser62=),3148035,rs2532273362,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112766380,G,T,Pathogenic,NC_000005.10:g.112766380G>T,NM_000038.6(APC):c.190G>T (p.Gly64Ter),82875,rs79323615,nonsense|5 prime UTR variant
+chr5,112766383,C,T,Pathogenic,NC_000005.10:g.112766383C>T,NM_000038.6(APC):c.193C>T (p.Gln65Ter),2583876,rs863225320,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112766393,T,A,Pathogenic,NC_000005.10:g.112766393T>A,NM_000038.6(APC):c.203T>A (p.Leu68Ter),1697512,rs1554069549,nonsense|5 prime UTR variant
+chr5,112766393,T,G,Pathogenic,NC_000005.10:g.112766393T>G,NM_000038.6(APC):c.203T>G (p.Leu68Ter),433597,rs1554069549,nonsense|5 prime UTR variant
+chr5,112766396,T,A,Pathogenic,NC_000005.10:g.112766396T>A,NM_000038.6(APC):c.206T>A (p.Leu69Ter),1436971,rs752519066,nonsense|5 prime UTR variant
+chr5,112766411,G,T,Pathogenic,NC_000005.10:g.112766411G>T,NM_000038.6(APC):c.220+1G>T,2127851,rs1554069570,splice donor variant
+chr5,112766411,G,A,Pathogenic,NC_000005.10:g.112766411G>A,NM_000038.6(APC):c.220+1G>A,433598,rs1554069570,splice donor variant
+chr5,112766412,T,A,Pathogenic,NC_000005.10:g.112766412T>A,NM_000038.6(APC):c.220+2T>A,141515,rs587781809,splice donor variant
+chr5,112767162,A,C,Benign,NC_000005.10:g.112767162A>C,NM_000038.6(APC):c.221-27A>C,2692098,rs371604873,intron variant
+chr5,112767187,A,T,Pathogenic,NC_000005.10:g.112767187A>T,NM_000038.6(APC):c.221-2A>T,1520547,rs786201291,splice acceptor variant
+chr5,112767197,T,C,Benign,NC_000005.10:g.112767197T>C,NM_000038.6(APC):c.229T>C (p.Leu77=),3147985,rs1756429303,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767198,T,A,Pathogenic,NC_000005.10:g.112767198T>A,NM_000038.6(APC):c.230T>A (p.Leu77Ter),1050615,rs2149787552,nonsense|5 prime UTR variant
+chr5,112767205,C,T,Benign,NC_000005.10:g.112767205C>T,NM_000038.6(APC):c.237C>T (p.Ser79=),3148023,rs2149787640,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767234,C,A,Pathogenic,NC_000005.10:g.112767234C>A,NM_000038.6(APC):c.266C>A (p.Ser89Ter),566516,rs876658846,nonsense|5 prime UTR variant
+chr5,112767234,C,G,Pathogenic,NC_000005.10:g.112767234C>G,NM_000038.6(APC):c.266C>G (p.Ser89Ter),230927,rs876658846,nonsense|5 prime UTR variant
+chr5,112767236,A,T,Pathogenic,NC_000005.10:g.112767236A>T,NM_000038.6(APC):c.268A>T (p.Lys90Ter),2561157,rs763184444,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112767256,T,G,Pathogenic,NC_000005.10:g.112767256T>G,NM_000038.6(APC):c.288T>G (p.Tyr96Ter),217957,rs376213437,nonsense|5 prime UTR variant
+chr5,112767256,T,A,Pathogenic,NC_000005.10:g.112767256T>A,NM_000038.6(APC):c.288T>A (p.Tyr96Ter),181831,rs376213437,nonsense|5 prime UTR variant
+chr5,112767257,G,T,Pathogenic,NC_000005.10:g.112767257G>T,NM_000038.6(APC):c.289G>T (p.Gly97Ter),2584303,rs2149788254,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112767257,G,A,Pathogenic,NC_000005.10:g.112767257G>A,NM_000038.6(APC):c.289G>A (p.Gly97Arg),1697514,rs2149788254,missense variant|5 prime UTR variant
+chr5,112767263,C,T,Benign,NC_000005.10:g.112767263C>T,NM_000038.6(APC):c.295C>T (p.Arg99Trp),135695,rs139196838,missense variant|5 prime UTR variant
+chr5,112767269,G,T,Pathogenic,NC_000005.10:g.112767269G>T,NM_000038.6(APC):c.301G>T (p.Gly101Ter),217958,rs863225335,nonsense|5 prime UTR variant
+chr5,112767279,C,A,Pathogenic,NC_000005.10:g.112767279C>A,NM_000038.6(APC):c.311C>A (p.Ser104Ter),82876,rs74953290,nonsense|5 prime UTR variant
+chr5,112767289,T,A,Benign,NC_000005.10:g.112767289T>A,NM_000038.6(APC):c.321T>A (p.Ser107=),3148065,rs2149788709,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767290,G,T,Pathogenic,NC_000005.10:g.112767290G>T,NM_000038.6(APC):c.322G>T (p.Gly108Ter),1414145,rs2149788717,nonsense|5 prime UTR variant
+chr5,112767307,T,G,Benign,NC_000005.10:g.112767307T>G,NM_000038.6(APC):c.339T>G (p.Val113=),3148175,rs2532298032,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767310,T,A,Benign,NC_000005.10:g.112767310T>A,NM_000038.6(APC):c.342T>A (p.Pro114=),3148066,rs2149789023,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767318,C,A,Pathogenic,NC_000005.10:g.112767318C>A,NM_000038.6(APC):c.350C>A (p.Ser117Ter),418932,rs1064793535,nonsense|5 prime UTR variant
+chr5,112767329,A,C,Benign,NC_000005.10:g.112767329A>C,NM_000038.6(APC):c.361A>C (p.Arg121=),3148216,rs2532299619,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767334,G,C,Benign,NC_000005.10:g.112767334G>C,NM_000038.6(APC):c.366G>C (p.Gly122=),3148412,rs2149789346,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112767353,G,T,Pathogenic,NC_000005.10:g.112767353G>T,NM_000038.6(APC):c.385G>T (p.Glu129Ter),2583973,rs376628500,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112767362,G,T,Pathogenic,NC_000005.10:g.112767362G>T,NM_000038.6(APC):c.394G>T (p.Gly132Ter),2583905,rs1580329638,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112767367,T,G,Pathogenic,NC_000005.10:g.112767367T>G,NM_000038.6(APC):c.399T>G (p.Tyr133Ter),2203670,rs2149789815,nonsense|5 prime UTR variant
+chr5,112767380,G,T,Pathogenic,NC_000005.10:g.112767380G>T,NM_000038.6(APC):c.412G>T (p.Glu138Ter),1685521,rs1756477033,nonsense|5 prime UTR variant
+chr5,112775373,G,A,Benign,NC_000005.10:g.112775373G>A,NM_000038.6(APC):c.423-256G>A,82910,rs392179,intron variant
+chr5,112775627,A,T,Pathogenic,NC_000005.10:g.112775627A>T,NM_000038.6(APC):c.423-2A>T,246083,rs879254087,splice acceptor variant
+chr5,112775627,A,C,Pathogenic,NC_000005.10:g.112775627A>C,NM_000038.6(APC):c.423-2A>C,1071890,rs879254087,splice acceptor variant
+chr5,112775627,A,G,Pathogenic,NC_000005.10:g.112775627A>G,NM_000038.6(APC):c.423-2A>G,1459062,rs879254087,splice acceptor variant
+chr5,112775628,G,T,Pathogenic,NC_000005.10:g.112775628G>T,NM_000038.6(APC):c.423-1G>T,2203672,rs397514031,splice acceptor variant
+chr5,112775628,G,C,Pathogenic,NC_000005.10:g.112775628G>C,NM_000038.6(APC):c.423-1G>C,181833,rs397514031,splice acceptor variant
+chr5,112775628,G,A,Pathogenic,NC_000005.10:g.112775628G>A,NM_000038.6(APC):c.423-1G>A,835,rs397514031,splice acceptor variant
+chr5,112775629,G,T,Pathogenic,NC_000005.10:g.112775629G>T,NM_000038.6(APC):c.423G>T (p.Arg141Ser),216017,rs863224458,missense variant|5 prime UTR variant
+chr5,112775631,C,A,Pathogenic,NC_000005.10:g.112775631C>A,NM_000038.6(APC):c.425C>A (p.Ser142Ter),1739148,rs2149614389,nonsense|5 prime UTR variant
+chr5,112775654,A,T,Pathogenic,NC_000005.10:g.112775654A>T,NM_000038.6(APC):c.448A>T (p.Lys150Ter),236598,rs878853444,nonsense|5 prime UTR variant
+chr5,112775659,A,G,Benign,NC_000005.10:g.112775659A>G,NM_000038.6(APC):c.453A>G (p.Glu151=),3148775,rs2532412187,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112775663,A,T,Pathogenic,NC_000005.10:g.112775663A>T,NM_000038.6(APC):c.457A>T (p.Lys153Ter),1456697,rs1561477861,nonsense|5 prime UTR variant
+chr5,112775676,G,A,Pathogenic,NC_000005.10:g.112775676G>A,NM_000038.6(APC):c.470G>A (p.Trp157Ter),813,rs137854576,nonsense|5 prime UTR variant
+chr5,112775677,G,A,Pathogenic,NC_000005.10:g.112775677G>A,NM_000038.6(APC):c.471G>A (p.Trp157Ter),411479,rs1060503328,nonsense|5 prime UTR variant
+chr5,112775680,T,G,Pathogenic,NC_000005.10:g.112775680T>G,NM_000038.6(APC):c.474T>G (p.Tyr158Ter),1742842,rs1060504891,nonsense|5 prime UTR variant
+chr5,112775680,T,A,Pathogenic,NC_000005.10:g.112775680T>A,NM_000038.6(APC):c.474T>A (p.Tyr158Ter),1451731,rs1060504891,nonsense|5 prime UTR variant
+chr5,112775683,C,G,Pathogenic,NC_000005.10:g.112775683C>G,NM_000038.6(APC):c.477C>G (p.Tyr159Ter),246084,rs863224281,nonsense|5 prime UTR variant
+chr5,112775683,C,A,Pathogenic,NC_000005.10:g.112775683C>A,NM_000038.6(APC):c.477C>A (p.Tyr159Ter),928697,rs863224281,nonsense|5 prime UTR variant
+chr5,112775687,C,T,Pathogenic,NC_000005.10:g.112775687C>T,NM_000038.6(APC):c.481C>T (p.Gln161Ter),229997,rs876658325,nonsense|5 prime UTR variant
+chr5,112775693,C,T,Pathogenic,NC_000005.10:g.112775693C>T,NM_000038.6(APC):c.487C>T (p.Gln163Ter),217991,rs863225362,nonsense|5 prime UTR variant
+chr5,112775705,A,T,Pathogenic,NC_000005.10:g.112775705A>T,NM_000038.6(APC):c.499A>T (p.Lys167Ter),3895933,,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112775727,T,G,Pathogenic,NC_000005.10:g.112775727T>G,NM_000038.6(APC):c.521T>G (p.Leu174Ter),849001,rs1757571583,nonsense|5 prime UTR variant
+chr5,112775731,T,C,Benign,NC_000005.10:g.112775731T>C,NM_000038.6(APC):c.525T>C (p.Thr175=),3147983,rs2149616203,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112775732,G,T,Pathogenic,NC_000005.10:g.112775732G>T,NM_000038.6(APC):c.526G>T (p.Glu176Ter),3664304,,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112775739,T,C,Pathogenic,NC_000005.10:g.112775739T>C,NM_000038.6(APC):c.531+2T>C,217995,rs863225365,splice donor variant
+chr5,112775740,A,T,Pathogenic,NC_000005.10:g.112775740A>T,NM_000038.6(APC):c.531+3A>T,1372526,rs1114167550,intron variant
+chr5,112775740,A,C,Pathogenic,NC_000005.10:g.112775740A>C,NM_000038.6(APC):c.531+3A>C,428099,rs1114167550,intron variant
+chr5,112775741,A,G,Pathogenic,NC_000005.10:g.112775741A>G,NM_000038.6(APC):c.531+4A>G,1467952,rs2149616393,intron variant
+chr5,112780046,G,T,Benign,NC_000005.10:g.112780046G>T,NM_000038.6(APC):c.532-744G>T,679390,rs7732731,intron variant
+chr5,112780782,G,A,Pathogenic,NC_000005.10:g.112780782G>A,NM_000038.6(APC):c.532-8G>A,411469,rs1060503323,intron variant
+chr5,112780788,A,G,Pathogenic,NC_000005.10:g.112780788A>G,NM_000038.6(APC):c.532-2A>G,537563,rs752152148,splice acceptor variant
+chr5,112780788,A,C,Pathogenic,NC_000005.10:g.112780788A>C,NM_000038.6(APC):c.532-2A>C,666011,rs752152148,splice acceptor variant
+chr5,112780789,G,C,Pathogenic,NC_000005.10:g.112780789G>C,NM_000038.6(APC):c.532-1G>C,3254694,rs1554072547,splice acceptor variant
+chr5,112780789,G,T,Pathogenic,NC_000005.10:g.112780789G>T,NM_000038.6(APC):c.532-1G>T,2734755,rs1554072547,splice acceptor variant
+chr5,112780797,T,A,Pathogenic,NC_000005.10:g.112780797T>A,NM_000038.6(APC):c.539T>A (p.Leu180Ter),433606,rs1554072560,nonsense|5 prime UTR variant
+chr5,112780799,C,T,Pathogenic,NC_000005.10:g.112780799C>T,NM_000038.6(APC):c.541C>T (p.Gln181Ter),217996,rs863225366,nonsense|5 prime UTR variant
+chr5,112780813,C,A,Benign,NC_000005.10:g.112780813C>A,NM_000038.6(APC):c.555C>A (p.Thr185=),3148251,rs1287296038,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112780814,A,T,Pathogenic,NC_000005.10:g.112780814A>T,NM_000038.6(APC):c.556A>T (p.Arg186Ter),825835,rs1580379633,nonsense|5 prime UTR variant
+chr5,112780820,C,T,Pathogenic,NC_000005.10:g.112780820C>T,NM_000038.6(APC):c.562C>T (p.Gln188Ter),224515,rs869312753,nonsense|5 prime UTR variant
+chr5,112780828,A,G,Benign,NC_000005.10:g.112780828A>G,NM_000038.6(APC):c.570A>G (p.Glu190=),3148047,rs2149639628,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112780832,G,T,Pathogenic,NC_000005.10:g.112780832G>T,NM_000038.6(APC):c.574G>T (p.Glu192Ter),2774098,rs757159551,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112780841,C,T,Pathogenic,NC_000005.10:g.112780841C>T,NM_000038.6(APC):c.583C>T (p.Gln195Ter),419992,rs749479682,nonsense|5 prime UTR variant
+chr5,112780859,G,T,Pathogenic,NC_000005.10:g.112780859G>T,NM_000038.6(APC):c.601G>T (p.Glu201Ter),2135762,rs2149640280,nonsense|5 prime UTR variant
+chr5,112780861,A,G,Benign,NC_000005.10:g.112780861A>G,NM_000038.6(APC):c.603A>G (p.Glu201=),3148332,rs2149640301,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112780862,G,T,Pathogenic,NC_000005.10:g.112780862G>T,NM_000038.6(APC):c.604G>T (p.Glu202Ter),4860861,,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112780865,C,T,Pathogenic,NC_000005.10:g.112780865C>T,NM_000038.6(APC):c.607C>T (p.Gln203Ter),428106,rs141576417,nonsense|5 prime UTR variant
+chr5,112780879,C,A,Pathogenic,NC_000005.10:g.112780879C>A,NM_000038.6(APC):c.621C>A (p.Cys207Ter),2584144,rs2149640773,nonsense|5 prime UTR variant|non-coding transcript variant
+chr5,112780880,C,T,Pathogenic,NC_000005.10:g.112780880C>T,NM_000038.6(APC):c.622C>T (p.Gln208Ter),839,rs137854583,nonsense|5 prime UTR variant
+chr5,112780900,A,T,Benign,NC_000005.10:g.112780900A>T,NM_000038.6(APC):c.642A>T (p.Ala214=),3148248,rs1580380453,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112780901,C,T,Pathogenic,NC_000005.10:g.112780901C>T,NM_000038.6(APC):c.643C>T (p.Gln215Ter),814,rs137854577,nonsense|5 prime UTR variant
+chr5,112780935,C,T,Benign,NC_000005.10:g.112780935C>T,NM_000038.6(APC):c.645+32C>T,218001,rs2909961,intron variant
+chr5,112780964,C,T,Benign,NC_000005.10:g.112780964C>T,NM_000038.6(APC):c.645+61C>T,218002,rs56328836,intron variant
+chr5,112781032,A,C,Benign,NC_000005.10:g.112781032A>C,NM_000038.6(APC):c.645+129A>C,82937,rs2289485,intron variant
+chr5,112781076,A,G,Benign,NC_000005.10:g.112781076A>G,NM_000038.6(APC):c.645+173A>G,82939,rs2289484,intron variant
+chr5,112792446,C,T,Pathogenic,NC_000005.10:g.112792446C>T,NM_000038.6(APC):c.646C>T (p.Arg216Ter),127312,rs62619935,nonsense|5 prime UTR variant|intron variant
+chr5,112792457,C,G,Benign,NC_000005.10:g.112792457C>G,NM_000038.6(APC):c.657C>G (p.Ala219=),3148506,rs2149684115,non-coding transcript variant|intron variant|synonymous variant|5 prime UTR variant
+chr5,112792457,C,A,Benign,NC_000005.10:g.112792457C>A,NM_000038.6(APC):c.657C>A (p.Ala219=),3148082,rs2149684115,synonymous variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112792458,A,T,Pathogenic,NC_000005.10:g.112792458A>T,NM_000038.6(APC):c.658A>T (p.Arg220Ter),4056229,,nonsense|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112792464,C,T,Pathogenic,NC_000005.10:g.112792464C>T,NM_000038.6(APC):c.664C>T (p.Gln222Ter),638855,rs1580423584,nonsense|5 prime UTR variant|intron variant
+chr5,112792467,C,T,Pathogenic,NC_000005.10:g.112792467C>T,NM_000038.6(APC):c.667C>T (p.Gln223Ter),433610,rs1554074738,nonsense|5 prime UTR variant|intron variant
+chr5,112792473,G,T,Pathogenic,NC_000005.10:g.112792473G>T,NM_000038.6(APC):c.673G>T (p.Glu225Ter),1755189,rs768233232,nonsense|5 prime UTR variant|intron variant
+chr5,112792494,C,A,Benign,NC_000005.10:g.112792494C>A,NM_000038.6(APC):c.694C>A (p.Arg232=),3148297,rs397515734,synonymous variant|5 prime UTR variant|non-coding transcript variant|intron variant
+chr5,112792494,C,T,Pathogenic,NC_000005.10:g.112792494C>T,NM_000038.6(APC):c.694C>T (p.Arg232Ter),42248,rs397515734,nonsense|5 prime UTR variant|intron variant
+chr5,112792497,C,T,Pathogenic,NC_000005.10:g.112792497C>T,NM_000038.6(APC):c.697C>T (p.Gln233Ter),470070,rs1554074772,nonsense|5 prime UTR variant|intron variant
+chr5,112792505,A,G,Benign,NC_000005.10:g.112792505A>G,NM_000038.6(APC):c.705A>G (p.Leu235=),92349,rs147036141,synonymous variant|5 prime UTR variant|intron variant
+chr5,112792506,C,T,Pathogenic,NC_000005.10:g.112792506C>T,NM_000038.6(APC):c.706C>T (p.Gln236Ter),433612,rs1554074786,nonsense|5 prime UTR variant|intron variant
+chr5,112792512,C,T,Pathogenic,NC_000005.10:g.112792512C>T,NM_000038.6(APC):c.712C>T (p.Gln238Ter),642931,rs1580424314,nonsense|5 prime UTR variant|intron variant
+chr5,112792515,G,C,Benign,NC_000005.10:g.112792515G>C,NM_000038.6(APC):c.715G>C (p.Ala239Pro),220329,rs777760565,missense variant|5 prime UTR variant|intron variant
+chr5,112792521,G,T,Pathogenic,NC_000005.10:g.112792521G>T,NM_000038.6(APC):c.721G>T (p.Glu241Ter),1995008,rs777603154,nonsense|5 prime UTR variant|intron variant
+chr5,112792617,T,C,Benign,NC_000005.10:g.112792617T>C,NM_000038.6(APC):c.729+88T>C,82480,rs79627325,intron variant
+chr5,112800785,C,G,Pathogenic,NC_000005.10:g.112800785C>G,NM_000038.6(APC):c.730-494C>G,1397905,rs2149709778,intron variant
+chr5,112801250,A,T,Benign,NC_000005.10:g.112801250A>T,NM_000038.6(APC):c.730-29A>T,218006,rs75083764,intron variant
+chr5,112801283,C,A,Pathogenic,NC_000005.10:g.112801283C>A,NM_000038.6(APC):c.734C>A (p.Ser245Ter),492654,rs1554076133,nonsense|5 prime UTR variant
+chr5,112801288,C,T,Pathogenic,NC_000005.10:g.112801288C>T,NM_000038.6(APC):c.739C>T (p.Gln247Ter),827018,rs1580454483,nonsense|5 prime UTR variant
+chr5,112801310,C,G,Pathogenic,NC_000005.10:g.112801310C>G,NM_000038.6(APC):c.761C>G (p.Ser254Ter),411489,rs1060503334,nonsense|5 prime UTR variant
+chr5,112801339,C,T,Pathogenic,NC_000005.10:g.112801339C>T,NM_000038.6(APC):c.790C>T (p.Gln264Ter),1761174,rs1434813233,nonsense|5 prime UTR variant
+chr5,112801351,G,T,Pathogenic,NC_000005.10:g.112801351G>T,NM_000038.6(APC):c.802G>T (p.Glu268Ter),470123,rs1326410920,nonsense|5 prime UTR variant
+chr5,112801365,A,G,Benign,NC_000005.10:g.112801365A>G,NM_000038.6(APC):c.816A>G (p.Ala272=),3148773,rs2532756043,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112801368,T,A,Benign,NC_000005.10:g.112801368T>A,NM_000038.6(APC):c.819T>A (p.Thr273=),3148242,rs2149712412,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112801368,T,G,Benign,NC_000005.10:g.112801368T>G,NM_000038.6(APC):c.819T>G (p.Thr273=),3148018,rs2149712412,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112801380,T,A,Benign,NC_000005.10:g.112801380T>A,NM_000038.6(APC):c.831T>A (p.Gly277=),3148339,rs2149712555,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112801381,C,T,Pathogenic,NC_000005.10:g.112801381C>T,NM_000038.6(APC):c.832C>T (p.Gln278Ter),470138,rs1554076217,nonsense|5 prime UTR variant
+chr5,112801384,G,T,Pathogenic,NC_000005.10:g.112801384G>T,NM_000038.6(APC):c.834+1G>T,3648613,,splice donor variant
+chr5,112801652,C,A,Benign,NC_000005.10:g.112801652C>A,NM_000038.6(APC):c.834+269C>A,1249454,rs56320268,intron variant
+chr5,112815499,C,G,Pathogenic,NC_000005.10:g.112815499C>G,NM_000038.6(APC):c.839C>G (p.Ser280Ter),799,rs137854569,nonsense|5 prime UTR variant
+chr5,112815506,A,C,Benign,NC_000005.10:g.112815506A>C,NM_000038.6(APC):c.846A>C (p.Thr282=),3148004,rs1554079134,synonymous variant|5 prime UTR variant|non-coding transcript variant
+chr5,112815507,C,T,Pathogenic,NC_000005.10:g.112815507C>T,NM_000038.6(APC):c.847C>T (p.Arg283Ter),184999,rs786201856,nonsense|5 prime UTR variant
+chr5,112815535,T,A,Pathogenic,NC_000005.10:g.112815535T>A,NM_000038.6(APC):c.875T>A (p.Leu292Ter),233488,rs876660439,nonsense
+chr5,112815539,T,C,Benign,NC_000005.10:g.112815539T>C,NM_000038.6(APC):c.879T>C (p.Ser293=),3148754,rs2149763187,synonymous variant|non-coding transcript variant
+chr5,112815557,T,G,Benign,NC_000005.10:g.112815557T>G,NM_000038.6(APC):c.897T>G (p.Ser299=),3148063,rs1762425713,synonymous variant|non-coding transcript variant
+chr5,112815567,A,C,Benign,NC_000005.10:g.112815567A>C,NM_000038.6(APC):c.907A>C (p.Arg303=),3148755,rs2532971532,synonymous variant|non-coding transcript variant
+chr5,112815585,G,T,Pathogenic,NC_000005.10:g.112815585G>T,NM_000038.6(APC):c.925G>T (p.Gly309Ter),188167,rs786204118,nonsense
+chr5,112815591,A,T,Pathogenic,NC_000005.10:g.112815591A>T,NM_000038.6(APC):c.931A>T (p.Lys311Ter),419800,rs1064794114,nonsense
+chr5,112815854,G,T,Benign,NC_000005.10:g.112815854G>T,NM_000038.6(APC):c.933+261G>T,1275686,rs12656359,intron variant
+chr5,112816509,T,G,Benign,NC_000005.10:g.112816509T>G,NM_000038.6(APC):c.933+916T>G,82560,rs17134960,intron variant
+chr5,112816652,G,T,Benign,NC_000005.10:g.112816652G>T,NM_000038.6(APC):c.933+1059G>T,1228265,rs140665929,intron variant
+chr5,112818834,G,T,Benign,NC_000005.10:g.112818834G>T,NM_000038.6(APC):c.934-132G>T,83122,rs12521276,intron variant
+chr5,112818874,G,C,Benign,NC_000005.10:g.112818874G>C,NM_000038.6(APC):c.934-92G>C,1260882,rs80307314,intron variant
+chr5,112818980,T,A,Pathogenic,NC_000005.10:g.112818980T>A,NM_000038.6(APC):c.948T>A (p.Tyr316Ter),1767127,rs748010172,nonsense|intron variant
+chr5,112818980,T,G,Pathogenic,NC_000005.10:g.112818980T>G,NM_000038.6(APC):c.948T>G (p.Tyr316Ter),470156,rs748010172,nonsense|intron variant
+chr5,112818982,C,G,Pathogenic,NC_000005.10:g.112818982C>G,NM_000038.6(APC):c.950C>G (p.Ser317Ter),2583991,rs2149778856,nonsense|non-coding transcript variant|intron variant
+chr5,112818985,T,A,Pathogenic,NC_000005.10:g.112818985T>A,NM_000038.6(APC):c.953T>A (p.Leu318Ter),3927967,,nonsense|non-coding transcript variant|intron variant
+chr5,112818988,T,A,Pathogenic,NC_000005.10:g.112818988T>A,NM_000038.6(APC):c.956T>A (p.Leu319Ter),2584162,rs2149778946,nonsense|non-coding transcript variant|intron variant
+chr5,112818991,C,G,Pathogenic,NC_000005.10:g.112818991C>G,NM_000038.6(APC):c.959C>G (p.Ser320Ter),3773091,,nonsense|non-coding transcript variant|intron variant
+chr5,112818991,C,A,Pathogenic,NC_000005.10:g.112818991C>A,NM_000038.6(APC):c.959C>A (p.Ser320Ter),2583947,rs2149778990,nonsense|non-coding transcript variant|intron variant
+chr5,112819024,C,A,Pathogenic,NC_000005.10:g.112819024C>A,NM_000038.6(APC):c.992C>A (p.Ser331Ter),3779347,,nonsense|non-coding transcript variant|intron variant
+chr5,112819026,C,T,Pathogenic,NC_000005.10:g.112819026C>T,NM_000038.6(APC):c.994C>T (p.Arg332Ter),184937,rs775126020,nonsense|intron variant
+chr5,112819027,G,A,Benign,NC_000005.10:g.112819027G>A,NM_000038.6(APC):c.995G>A (p.Arg332Gln),187754,rs377665107,missense variant|intron variant
+chr5,112819033,T,A,Pathogenic,NC_000005.10:g.112819033T>A,NM_000038.6(APC):c.1001T>A (p.Leu334Ter),988292,rs1762812907,nonsense|intron variant
+chr5,112819053,C,T,Pathogenic,NC_000005.10:g.112819053C>T,NM_000038.6(APC):c.1021C>T (p.Gln341Ter),2584050,rs77058194,nonsense|non-coding transcript variant|intron variant
+chr5,112819064,T,A,Pathogenic,NC_000005.10:g.112819064T>A,NM_000038.6(APC):c.1032T>A (p.Cys344Ter),927737,rs1762819450,nonsense|intron variant
+chr5,112819076,A,T,Benign,NC_000005.10:g.112819076A>T,NM_000038.6(APC):c.1044A>T (p.Arg348=),3148312,rs772902822,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819077,C,T,Pathogenic,NC_000005.10:g.112819077C>T,NM_000038.6(APC):c.1045C>T (p.Gln349Ter),217918,rs863225307,nonsense|intron variant
+chr5,112819083,G,T,Pathogenic,NC_000005.10:g.112819083G>T,NM_000038.6(APC):c.1051G>T (p.Gly351Ter),3231090,rs2149780462,nonsense|non-coding transcript variant|intron variant
+chr5,112819104,C,T,Pathogenic,NC_000005.10:g.112819104C>T,NM_000038.6(APC):c.1072C>T (p.Gln358Ter),216010,rs863224455,nonsense|intron variant
+chr5,112819111,T,A,Pathogenic,NC_000005.10:g.112819111T>A,NM_000038.6(APC):c.1079T>A (p.Leu360Ter),2096986,rs2149780840,nonsense|intron variant
+chr5,112819136,A,C,Benign,NC_000005.10:g.112819136A>C,NM_000038.6(APC):c.1104A>C (p.Val368=),3148129,rs752507116,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819137,T,C,Benign,NC_000005.10:g.112819137T>C,NM_000038.6(APC):c.1105T>C (p.Leu369=),3148743,rs1762836011,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819138,T,A,Pathogenic,NC_000005.10:g.112819138T>A,NM_000038.6(APC):c.1106T>A (p.Leu369Ter),1360942,rs2149781233,nonsense|intron variant
+chr5,112819139,G,A,Benign,NC_000005.10:g.112819139G>A,NM_000038.6(APC):c.1107G>A (p.Leu369=),3148279,rs2149781246,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819143,G,T,Pathogenic,NC_000005.10:g.112819143G>T,NM_000038.6(APC):c.1111G>T (p.Gly371Ter),571193,rs863224535,nonsense|intron variant
+chr5,112819145,A,C,Benign,NC_000005.10:g.112819145A>C,NM_000038.6(APC):c.1113A>C (p.Gly371=),3148495,rs2149781330,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819145,A,G,Benign,NC_000005.10:g.112819145A>G,NM_000038.6(APC):c.1113A>G (p.Gly371=),3147998,rs2149781330,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819161,A,T,Pathogenic,NC_000005.10:g.112819161A>T,NM_000038.6(APC):c.1129A>T (p.Lys377Ter),2583919,rs2149781488,nonsense|non-coding transcript variant|intron variant
+chr5,112819181,C,T,Benign,NC_000005.10:g.112819181C>T,NM_000038.6(APC):c.1149C>T (p.Ala383=),3148654,rs2149781739,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819210,C,A,Pathogenic,NC_000005.10:g.112819210C>A,NM_000038.6(APC):c.1178C>A (p.Ser393Ter),2584104,rs1114167545,nonsense|non-coding transcript variant|intron variant
+chr5,112819210,C,G,Pathogenic,NC_000005.10:g.112819210C>G,NM_000038.6(APC):c.1178C>G (p.Ser393Ter),428093,rs1114167545,nonsense|intron variant
+chr5,112819212,C,T,Pathogenic,NC_000005.10:g.112819212C>T,NM_000038.6(APC):c.1180C>T (p.Gln394Ter),818506,rs770507436,nonsense|intron variant
+chr5,112819224,A,T,Pathogenic,NC_000005.10:g.112819224A>T,NM_000038.6(APC):c.1192A>T (p.Lys398Ter),2583895,rs765196085,nonsense|non-coding transcript variant|intron variant
+chr5,112819227,A,T,Pathogenic,NC_000005.10:g.112819227A>T,NM_000038.6(APC):c.1195A>T (p.Arg399Ter),4861083,,nonsense|non-coding transcript variant|intron variant
+chr5,112819232,C,G,Benign,NC_000005.10:g.112819232C>G,NM_000038.6(APC):c.1200C>G (p.Gly400=),3148265,rs2533052644,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819245,C,T,Pathogenic,NC_000005.10:g.112819245C>T,NM_000038.6(APC):c.1213C>T (p.Arg405Ter),127275,rs587779780,nonsense|intron variant
+chr5,112819253,T,C,Benign,NC_000005.10:g.112819253T>C,NM_000038.6(APC):c.1221T>C (p.Leu407=),3148110,rs2149782704,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819259,T,G,Benign,NC_000005.10:g.112819259T>G,NM_000038.6(APC):c.1227T>G (p.Leu409=),3148200,rs2149782807,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819260,T,C,Benign,NC_000005.10:g.112819260T>C,NM_000038.6(APC):c.1228T>C (p.Leu410=),3148186,rs2149782820,synonymous variant|non-coding transcript variant|intron variant
+chr5,112819266,C,T,Pathogenic,NC_000005.10:g.112819266C>T,NM_000038.6(APC):c.1234C>T (p.Gln412Ter),234024,rs876660802,nonsense|intron variant
+chr5,112819272,C,T,Benign,NC_000005.10:g.112819272C>T,NM_000038.6(APC):c.1240C>T (p.Arg414Cys),797,rs137854567,missense variant
+chr5,112819274,C,T,Benign,NC_000005.10:g.112819274C>T,NM_000038.6(APC):c.1242C>T (p.Arg414=),215553,rs751423790,synonymous variant
+chr5,112819277,T,C,Benign,NC_000005.10:g.112819277T>C,NM_000038.6(APC):c.1245T>C (p.Ala415=),3148829,rs1561542004,synonymous variant|non-coding transcript variant
+chr5,112819280,C,A,Pathogenic,NC_000005.10:g.112819280C>A,NM_000038.6(APC):c.1248C>A (p.Tyr416Ter),1759941,rs2149783185,nonsense
+chr5,112819283,T,A,Pathogenic,NC_000005.10:g.112819283T>A,NM_000038.6(APC):c.1251T>A (p.Cys417Ter),428172,rs1114167607,nonsense
+chr5,112819294,G,A,Pathogenic,NC_000005.10:g.112819294G>A,NM_000038.6(APC):c.1262G>A (p.Trp421Ter),188244,rs559510809,nonsense
+chr5,112819295,G,A,Pathogenic,NC_000005.10:g.112819295G>A,NM_000038.6(APC):c.1263G>A (p.Trp421Ter),449331,rs1554080106,nonsense
+chr5,112819296,G,T,Pathogenic,NC_000005.10:g.112819296G>T,NM_000038.6(APC):c.1264G>T (p.Glu422Ter),2734757,rs755069015,nonsense|non-coding transcript variant
+chr5,112819300,G,A,Pathogenic,NC_000005.10:g.112819300G>A,NM_000038.6(APC):c.1268G>A (p.Trp423Ter),851219,rs1762865724,nonsense
+chr5,112819301,G,A,Pathogenic,NC_000005.10:g.112819301G>A,NM_000038.6(APC):c.1269G>A (p.Trp423Ter),2583881,rs2149783521,nonsense|non-coding transcript variant
+chr5,112819302,C,T,Pathogenic,NC_000005.10:g.112819302C>T,NM_000038.6(APC):c.1270C>T (p.Gln424Ter),575787,rs1561542165,nonsense
+chr5,112819305,G,T,Pathogenic,NC_000005.10:g.112819305G>T,NM_000038.6(APC):c.1273G>T (p.Glu425Ter),3779340,,nonsense|non-coding transcript variant
+chr5,112819319,A,G,Benign,NC_000005.10:g.112819319A>G,NM_000038.6(APC):c.1287A>G (p.Pro429=),3148019,rs2149783796,synonymous variant|non-coding transcript variant
+chr5,112819329,C,T,Pathogenic,NC_000005.10:g.112819329C>T,NM_000038.6(APC):c.1297C>T (p.Gln433Ter),217921,rs863225309,nonsense
+chr5,112819340,T,C,Benign,NC_000005.10:g.112819340T>C,NM_000038.6(APC):c.1308T>C (p.Asn436=),3148474,rs1580531932,synonymous variant|non-coding transcript variant
+chr5,112819345,G,C,Pathogenic,NC_000005.10:g.112819345G>C,NM_000038.6(APC):c.1312+1G>C,2632586,rs863225310,splice donor variant
+chr5,112819346,T,C,Pathogenic,NC_000005.10:g.112819346T>C,NM_000038.6(APC):c.1312+2T>C,428138,rs1114167579,splice donor variant
+chr5,112819347,A,G,Pathogenic,NC_000005.10:g.112819347A>G,NM_000038.6(APC):c.1312+3A>G,217924,rs863225311,intron variant
+chr5,112819371,G,A,Benign,NC_000005.10:g.112819371G>A,NM_000038.6(APC):c.1312+27G>A,439407,rs74975092,intron variant
+chr5,112821900,A,C,Benign,NC_000005.10:g.112821900A>C,NM_000038.6(APC):c.1317A>C (p.Pro439=),3148472,rs761821491,synonymous variant|non-coding transcript variant
+chr5,112821910,G,T,Pathogenic,NC_000005.10:g.112821910G>T,NM_000038.6(APC):c.1327G>T (p.Glu443Ter),2584275,rs1763168688,nonsense|non-coding transcript variant
+chr5,112821916,C,T,Pathogenic,NC_000005.10:g.112821916C>T,NM_000038.6(APC):c.1333C>T (p.Gln445Ter),438865,rs876658802,nonsense
+chr5,112821936,T,A,Pathogenic,NC_000005.10:g.112821936T>A,NM_000038.6(APC):c.1353T>A (p.Cys451Ter),857174,rs1387916046,nonsense
+chr5,112821951,T,G,Benign,NC_000005.10:g.112821951T>G,NM_000038.6(APC):c.1368T>G (p.Leu456=),3148199,rs2533109722,synonymous variant|non-coding transcript variant
+chr5,112821953,C,A,Pathogenic,NC_000005.10:g.112821953C>A,NM_000038.6(APC):c.1370C>A (p.Ser457Ter),433620,rs1060503333,nonsense
+chr5,112821953,C,G,Pathogenic,NC_000005.10:g.112821953C>G,NM_000038.6(APC):c.1370C>G (p.Ser457Ter),411488,rs1060503333,nonsense
+chr5,112821954,A,T,Benign,NC_000005.10:g.112821954A>T,NM_000038.6(APC):c.1371A>T (p.Ser457=),3148277,rs1580542473,synonymous variant|non-coding transcript variant
+chr5,112821961,G,T,Pathogenic,NC_000005.10:g.112821961G>T,NM_000038.6(APC):c.1378G>T (p.Glu460Ter),2584095,rs786203718,nonsense|non-coding transcript variant
+chr5,112821984,T,C,Benign,NC_000005.10:g.112821984T>C,NM_000038.6(APC):c.1401T>C (p.Asn467=),3148735,rs2149792799,synonymous variant|non-coding transcript variant
+chr5,112821985,G,T,Pathogenic,NC_000005.10:g.112821985G>T,NM_000038.6(APC):c.1402G>T (p.Glu468Ter),411503,rs1060503340,nonsense
+chr5,112822720,A,G,Pathogenic,NC_000005.10:g.112822720A>G,NM_000038.6(APC):c.1408+729A>G,3677038,,intron variant
+chr5,112822734,G,A,Benign,NC_000005.10:g.112822734G>A,NM_000038.6(APC):c.1408+743G>A,83136,rs2545162,intron variant
+chr5,112822783,A,T,Benign,NC_000005.10:g.112822783A>T,NM_000038.6(APC):c.1408+792A>T,82574,rs77551834,intron variant
+chr5,112823052,A,T,Benign,NC_000005.10:g.112823052A>T,NM_000038.6(APC):c.1408+1061A>T,1279182,rs77618087,intron variant
+chr5,112827110,G,T,Pathogenic,NC_000005.10:g.112827110G>T,NM_000038.6(APC):c.1411G>T (p.Gly471Ter),2583882,rs1554081633,nonsense
+chr5,112827116,C,T,Pathogenic,NC_000005.10:g.112827116C>T,NM_000038.6(APC):c.1417C>T (p.Gln473Ter),230959,rs876658868,nonsense
+chr5,112827127,A,G,Benign,NC_000005.10:g.112827127A>G,NM_000038.6(APC):c.1428A>G (p.Ala476=),3148734,rs2149808707,synonymous variant
+chr5,112827128,G,T,Pathogenic,NC_000005.10:g.112827128G>T,NM_000038.6(APC):c.1429G>T (p.Glu477Ter),2584014,rs1763761095,nonsense
+chr5,112827132,T,G,Pathogenic,NC_000005.10:g.112827132T>G,NM_000038.6(APC):c.1433T>G (p.Leu478Ter),217928,rs863225314,nonsense
+chr5,112827135,T,A,Pathogenic,NC_000005.10:g.112827135T>A,NM_000038.6(APC):c.1436T>A (p.Leu479Ter),2583872,rs1763763568,nonsense
+chr5,112827137,C,T,Pathogenic,NC_000005.10:g.112827137C>T,NM_000038.6(APC):c.1438C>T (p.Gln480Ter),2583896,rs570514864,nonsense
+chr5,112827151,A,G,Benign,NC_000005.10:g.112827151A>G,NM_000038.6(APC):c.1452A>G (p.Glu484=),3148087,rs1350430751,synonymous variant
+chr5,112827157,T,C,Benign,NC_000005.10:g.112827157T>C,NM_000038.6(APC):c.1458T>C (p.Tyr486=),42238,rs2229992,synonymous variant
+chr5,112827157,T,G,Pathogenic,NC_000005.10:g.112827157T>G,NM_000038.6(APC):c.1458T>G (p.Tyr486Ter),825,rs2229992,nonsense
+chr5,112827166,T,A,Benign,NC_000005.10:g.112827166T>A,NM_000038.6(APC):c.1467T>A (p.Thr489=),3148822,rs2149809331,synonymous variant
+chr5,112827178,C,G,Pathogenic,NC_000005.10:g.112827178C>G,NM_000038.6(APC):c.1479C>G (p.Tyr493Ter),2584059,rs1561553939,nonsense
+chr5,112827178,C,A,Pathogenic,NC_000005.10:g.112827178C>A,NM_000038.6(APC):c.1479C>A (p.Tyr493Ter),639528,rs1561553939,nonsense
+chr5,112827191,A,T,Pathogenic,NC_000005.10:g.112827191A>T,NM_000038.6(APC):c.1492A>T (p.Arg498Ter),1451308,rs2149809668,nonsense
+chr5,112827194,C,T,Pathogenic,NC_000005.10:g.112827194C>T,NM_000038.6(APC):c.1495C>T (p.Arg499Ter),824,rs137854580,nonsense
+chr5,112827199,T,A,Pathogenic,NC_000005.10:g.112827199T>A,NM_000038.6(APC):c.1500T>A (p.Tyr500Ter),217929,rs387906230,nonsense
+chr5,112827199,T,G,Pathogenic,NC_000005.10:g.112827199T>G,NM_000038.6(APC):c.1500T>G (p.Tyr500Ter),796,rs387906230,nonsense
+chr5,112827211,T,C,Benign,NC_000005.10:g.112827211T>C,NM_000038.6(APC):c.1512T>C (p.Ala504=),618531,rs1561554267,synonymous variant
+chr5,112827217,A,T,Benign,NC_000005.10:g.112827217A>T,NM_000038.6(APC):c.1518A>T (p.Thr506=),3148434,rs2149810093,synonymous variant
+chr5,112827230,G,T,Pathogenic,NC_000005.10:g.112827230G>T,NM_000038.6(APC):c.1531G>T (p.Gly511Ter),230854,rs876658811,nonsense
+chr5,112827247,G,C,Pathogenic,NC_000005.10:g.112827247G>C,NM_000038.6(APC):c.1548G>C (p.Lys516Asn),246087,rs879254090,missense variant
+chr5,112827248,G,A,Pathogenic,NC_000005.10:g.112827248G>A,NM_000038.6(APC):c.1548+1G>A,469712,rs1114167599,splice donor variant
+chr5,112827248,G,C,Pathogenic,NC_000005.10:g.112827248G>C,NM_000038.6(APC):c.1548+1G>C,428181,rs1114167599,splice donor variant
+chr5,112827248,G,T,Pathogenic,NC_000005.10:g.112827248G>T,NM_000038.6(APC):c.1548+1G>T,428160,rs1114167599,splice donor variant
+chr5,112827249,T,A,Pathogenic,NC_000005.10:g.112827249T>A,NM_000038.6(APC):c.1548+2T>A,4856771,,splice donor variant
+chr5,112827916,A,T,Benign,NC_000005.10:g.112827916A>T,NM_000038.6(APC):c.1549-13A>T,140764,rs587781267,intron variant
+chr5,112827947,A,T,Pathogenic,NC_000005.10:g.112827947A>T,NM_000038.6(APC):c.1567A>T (p.Lys523Ter),2573326,rs1763872744,nonsense
+chr5,112827955,C,A,Pathogenic,NC_000005.10:g.112827955C>A,NM_000038.6(APC):c.1575C>A (p.Cys525Ter),2583954,rs2149813460,nonsense
+chr5,112827959,A,T,Pathogenic,NC_000005.10:g.112827959A>T,NM_000038.6(APC):c.1579A>T (p.Arg527Ter),1775634,rs751120046,nonsense
+chr5,112827980,A,T,Pathogenic,NC_000005.10:g.112827980A>T,NM_000038.6(APC):c.1600A>T (p.Lys534Ter),665501,rs1580569295,nonsense
+chr5,112827986,G,T,Pathogenic,NC_000005.10:g.112827986G>T,NM_000038.6(APC):c.1606G>T (p.Glu536Ter),486785,rs138098808,nonsense
+chr5,112827992,G,T,Pathogenic,NC_000005.10:g.112827992G>T,NM_000038.6(APC):c.1612G>T (p.Glu538Ter),1801523,rs2149813944,nonsense
+chr5,112827999,T,G,Pathogenic,NC_000005.10:g.112827999T>G,NM_000038.6(APC):c.1619T>G (p.Leu540Ter),2584202,rs1763886479,nonsense
+chr5,112828001,C,T,Pathogenic,NC_000005.10:g.112828001C>T,NM_000038.6(APC):c.1621C>T (p.Gln541Ter),806,rs137854572,nonsense
+chr5,112828004,C,T,Pathogenic,NC_000005.10:g.112828004C>T,NM_000038.6(APC):c.1624C>T (p.Gln542Ter),819693,rs1580569680,nonsense
+chr5,112828541,C,T,Benign,NC_000005.10:g.112828541C>T,NM_000038.6(APC):c.1627-315C>T,83162,rs187075,intron variant
+chr5,112828853,C,G,Pathogenic,NC_000005.10:g.112828853C>G,NM_000038.6(APC):c.1627-3C>G,1776714,rs1554082079,intron variant
+chr5,112828855,G,A,Pathogenic,NC_000005.10:g.112828855G>A,NM_000038.6(APC):c.1627-1G>A,819698,rs1580573847,splice acceptor variant
+chr5,112828864,G,A,Benign,NC_000005.10:g.112828864G>A,NM_000038.6(APC):c.1635G>A (p.Ala545=),42239,rs351771,synonymous variant
+chr5,112828881,T,A,Pathogenic,NC_000005.10:g.112828881T>A,NM_000038.6(APC):c.1652T>A (p.Leu551Ter),1459980,rs2149817124,nonsense
+chr5,112828887,G,A,Pathogenic,NC_000005.10:g.112828887G>A,NM_000038.6(APC):c.1658G>A (p.Trp553Ter),217935,rs863225318,nonsense
+chr5,112828888,G,A,Pathogenic,NC_000005.10:g.112828888G>A,NM_000038.6(APC):c.1659G>A (p.Trp553Ter),92340,rs398123116,nonsense
+chr5,112828889,C,T,Pathogenic,NC_000005.10:g.112828889C>T,NM_000038.6(APC):c.1660C>T (p.Arg554Ter),807,rs137854573,nonsense
+chr5,112828919,C,T,Pathogenic,NC_000005.10:g.112828919C>T,NM_000038.6(APC):c.1690C>T (p.Arg564Ter),808,rs137854574,nonsense
+chr5,112828922,G,T,Pathogenic,NC_000005.10:g.112828922G>T,NM_000038.6(APC):c.1693G>T (p.Glu565Ter),969677,rs890665991,nonsense
+chr5,112828924,A,G,Benign,NC_000005.10:g.112828924A>G,NM_000038.6(APC):c.1695A>G (p.Glu565=),183766,rs77921116,synonymous variant
+chr5,112828927,T,C,Benign,NC_000005.10:g.112828927T>C,NM_000038.6(APC):c.1698T>C (p.Val566=),3148738,rs2149817756,synonymous variant
+chr5,112828930,A,C,Benign,NC_000005.10:g.112828930A>C,NM_000038.6(APC):c.1701A>C (p.Gly567=),3148188,rs2149817832,synonymous variant
+chr5,112828943,T,C,Benign,NC_000005.10:g.112828943T>C,NM_000038.6(APC):c.1714T>C (p.Leu572=),3148139,rs2149818077,synonymous variant
+chr5,112828949,G,T,Pathogenic,NC_000005.10:g.112828949G>T,NM_000038.6(APC):c.1720G>T (p.Glu574Ter),976253,rs1764024563,nonsense
+chr5,112828967,A,T,Pathogenic,NC_000005.10:g.112828967A>T,NM_000038.6(APC):c.1738A>T (p.Lys580Ter),1779121,rs1429910910,nonsense
+chr5,112829165,G,A,Benign,NC_000005.10:g.112829165G>A,NM_000038.6(APC):c.1743+193G>A,83163,rs351772,intron variant
+chr5,112834661,G,A,Benign,NC_000005.10:g.112834661G>A,NM_000038.6(APC):c.1744-290G>A,83209,rs458967,intron variant
+chr5,112834793,A,G,Benign,NC_000005.10:g.112834793A>G,NM_000038.6(APC):c.1744-158A>G,1238626,rs74915204,intron variant
+chr5,112834929,C,G,Pathogenic,NC_000005.10:g.112834929C>G,NM_000038.6(APC):c.1744-22C>G,1779246,rs2149840516,intron variant
+chr5,112834947,C,G,Pathogenic,NC_000005.10:g.112834947C>G,NM_000038.6(APC):c.1744-4C>G,433625,rs772745309,intron variant
+chr5,112834948,T,G,Pathogenic,NC_000005.10:g.112834948T>G,NM_000038.6(APC):c.1744-3T>G,819988,rs760166803,intron variant
+chr5,112834949,A,C,Pathogenic,NC_000005.10:g.112834949A>C,NM_000038.6(APC):c.1744-2A>C,2019875,rs587783035,splice acceptor variant
+chr5,112834949,A,G,Pathogenic,NC_000005.10:g.112834949A>G,NM_000038.6(APC):c.1744-2A>G,156482,rs587783035,splice acceptor variant
+chr5,112834950,G,A,Pathogenic,NC_000005.10:g.112834950G>A,NM_000038.6(APC):c.1744-1G>A,2452736,rs976449430,splice acceptor variant
+chr5,112834951,G,T,Pathogenic,NC_000005.10:g.112834951G>T,NM_000038.6(APC):c.1744G>T (p.Glu582Ter),1012192,rs1764693751,nonsense
+chr5,112834953,A,G,Benign,NC_000005.10:g.112834953A>G,NM_000038.6(APC):c.1746A>G (p.Glu582=),231116,rs876658969,synonymous variant
+chr5,112834963,A,T,Pathogenic,NC_000005.10:g.112834963A>T,NM_000038.6(APC):c.1756A>T (p.Lys586Ter),3720639,,nonsense|non-coding transcript variant
+chr5,112834982,T,G,Pathogenic,NC_000005.10:g.112834982T>G,NM_000038.6(APC):c.1775T>G (p.Leu592Ter),1330021,rs1764700195,nonsense
+chr5,112834985,G,A,Pathogenic,NC_000005.10:g.112834985G>A,NM_000038.6(APC):c.1778G>A (p.Trp593Ter),419994,rs1064794226,nonsense
+chr5,112834986,G,A,Pathogenic,NC_000005.10:g.112834986G>A,NM_000038.6(APC):c.1779G>A (p.Trp593Ter),433627,rs1554083132,nonsense
+chr5,112834994,C,A,Pathogenic,NC_000005.10:g.112834994C>A,NM_000038.6(APC):c.1787C>A (p.Ser596Ter),2828310,rs1554083134,nonsense|non-coding transcript variant
+chr5,112834994,C,G,Pathogenic,NC_000005.10:g.112834994C>G,NM_000038.6(APC):c.1787C>G (p.Ser596Ter),433628,rs1554083134,nonsense
+chr5,112834995,A,G,Benign,NC_000005.10:g.112834995A>G,NM_000038.6(APC):c.1788A>G (p.Ser596=),3148099,rs2149841451,synonymous variant|non-coding transcript variant
+chr5,112835004,C,A,Pathogenic,NC_000005.10:g.112835004C>A,NM_000038.6(APC):c.1797C>A (p.Cys599Ter),937768,rs1764702814,nonsense
+chr5,112835008,G,T,Pathogenic,NC_000005.10:g.112835008G>T,NM_000038.6(APC):c.1801G>T (p.Glu601Ter),1387554,rs2149841665,nonsense
+chr5,112835073,C,G,Pathogenic,NC_000005.10:g.112835073C>G,NM_000038.6(APC):c.1866C>G (p.Tyr622Ter),419995,rs876658355,nonsense
+chr5,112835073,C,A,Pathogenic,NC_000005.10:g.112835073C>A,NM_000038.6(APC):c.1866C>A (p.Tyr622Ter),233973,rs876658355,nonsense
+chr5,112835080,C,T,Pathogenic,NC_000005.10:g.112835080C>T,NM_000038.6(APC):c.1873C>T (p.Gln625Ter),232045,rs876659517,nonsense
+chr5,112835093,T,G,Pathogenic,NC_000005.10:g.112835093T>G,NM_000038.6(APC):c.1886T>G (p.Leu629Ter),429049,rs1019221239,nonsense
+chr5,112835093,T,A,Pathogenic,NC_000005.10:g.112835093T>A,NM_000038.6(APC):c.1886T>A (p.Leu629Ter),584664,rs1019221239,nonsense
+chr5,112835104,G,T,Pathogenic,NC_000005.10:g.112835104G>T,NM_000038.6(APC):c.1897G>T (p.Glu633Ter),988281,rs1764730705,nonsense
+chr5,112835109,T,C,Benign,NC_000005.10:g.112835109T>C,NM_000038.6(APC):c.1902T>C (p.Ser634=),3148055,rs876659460,synonymous variant|non-coding transcript variant
+chr5,112835110,G,T,Pathogenic,NC_000005.10:g.112835110G>T,NM_000038.6(APC):c.1903G>T (p.Gly635Ter),537470,rs1554083205,nonsense
+chr5,112835116,G,A,Pathogenic,NC_000005.10:g.112835116G>A,NM_000038.6(APC):c.1909G>A (p.Gly637Arg),486780,rs1554083227,missense variant
+chr5,112835164,A,C,Pathogenic,NC_000005.10:g.112835164A>C,NM_000038.6(APC):c.1957A>C (p.Arg653=),482311,rs1114167580,synonymous variant
+chr5,112835164,A,G,Pathogenic,NC_000005.10:g.112835164A>G,NM_000038.6(APC):c.1957A>G (p.Arg653Gly),428139,rs1114167580,missense variant
+chr5,112835165,G,C,Pathogenic,NC_000005.10:g.112835165G>C,NM_000038.6(APC):c.1958G>C (p.Arg653Thr),3222705,rs1060503318,missense variant|non-coding transcript variant
+chr5,112835165,G,A,Pathogenic,NC_000005.10:g.112835165G>A,NM_000038.6(APC):c.1958G>A (p.Arg653Lys),428128,rs1060503318,missense variant
+chr5,112835165,G,T,Pathogenic,NC_000005.10:g.112835165G>T,NM_000038.6(APC):c.1958G>T (p.Arg653Met),411463,rs1060503318,missense variant
+chr5,112835166,G,T,Pathogenic,NC_000005.10:g.112835166G>T,NM_000038.6(APC):c.1958+1G>T,1783340,rs1114167569,splice donor variant
+chr5,112835166,G,A,Pathogenic,NC_000005.10:g.112835166G>A,NM_000038.6(APC):c.1958+1G>A,428125,rs1114167569,splice donor variant
+chr5,112835167,T,C,Pathogenic,NC_000005.10:g.112835167T>C,NM_000038.6(APC):c.1958+2T>C,2584043,rs2149844646,splice donor variant
+chr5,112835167,T,A,Pathogenic,NC_000005.10:g.112835167T>A,NM_000038.6(APC):c.1958+2T>A,1783341,rs2149844646,splice donor variant
+chr5,112835168,A,G,Pathogenic,NC_000005.10:g.112835168A>G,NM_000038.6(APC):c.1958+3A>G,245982,rs879254032,intron variant
+chr5,112835173,T,C,Benign,NC_000005.10:g.112835173T>C,NM_000038.6(APC):c.1958+8T>C,82616,rs62626346,intron variant
+chr5,112835176,A,T,Benign,NC_000005.10:g.112835176A>T,NM_000038.6(APC):c.1958+11A>T,3148616,rs2533345928,intron variant
+chr5,112835187,A,C,Benign,NC_000005.10:g.112835187A>C,NM_000038.6(APC):c.1958+22A>C,3148052,rs1246211345,intron variant
+chr5,112835187,A,G,Benign,NC_000005.10:g.112835187A>G,NM_000038.6(APC):c.1958+22A>G,3148028,rs1246211345,intron variant
+chr5,112835188,C,T,Benign,NC_000005.10:g.112835188C>T,NM_000038.6(APC):c.1958+23C>T,3148067,rs755446528,intron variant
+chr5,112835189,T,C,Benign,NC_000005.10:g.112835189T>C,NM_000038.6(APC):c.1958+24T>C,3148813,rs2533346529,intron variant
+chr5,112835190,T,A,Benign,NC_000005.10:g.112835190T>A,NM_000038.6(APC):c.1958+25T>A,3148468,rs779459996,intron variant
+chr5,112835192,T,G,Benign,NC_000005.10:g.112835192T>G,NM_000038.6(APC):c.1958+27T>G,3148202,rs748495382,intron variant
+chr5,112835194,A,C,Benign,NC_000005.10:g.112835194A>C,NM_000038.6(APC):c.1958+29A>C,3148026,rs373783930,intron variant
+chr5,112835196,G,A,Benign,NC_000005.10:g.112835196G>A,NM_000038.6(APC):c.1958+31G>A,3148201,rs1561569812,intron variant
+chr5,112835199,C,T,Benign,NC_000005.10:g.112835199C>T,NM_000038.6(APC):c.1958+34C>T,3147984,rs746596997,intron variant
+chr5,112835200,A,G,Benign,NC_000005.10:g.112835200A>G,NM_000038.6(APC):c.1958+35A>G,3148137,rs1179400538,intron variant
+chr5,112835201,G,T,Benign,NC_000005.10:g.112835201G>T,NM_000038.6(APC):c.1958+36G>T,3148746,rs201721607,intron variant
+chr5,112835207,A,G,Benign,NC_000005.10:g.112835207A>G,NM_000038.6(APC):c.1958+42A>G,3148803,rs1445491467,intron variant
+chr5,112835208,T,C,Benign,NC_000005.10:g.112835208T>C,NM_000038.6(APC):c.1958+43T>C,3148779,rs2149845102,intron variant
+chr5,112835209,A,G,Benign,NC_000005.10:g.112835209A>G,NM_000038.6(APC):c.1958+44A>G,3148060,rs1764753256,intron variant
+chr5,112835219,A,C,Benign,NC_000005.10:g.112835219A>C,NM_000038.6(APC):c.1958+54A>C,1224125,rs17164137,intron variant
+chr5,112835291,G,T,Benign,NC_000005.10:g.112835291G>T,NM_000038.6(APC):c.1958+126G>T,223418,rs368368751,intron variant
+chr5,112835400,A,G,Benign,NC_000005.10:g.112835400A>G,NM_000038.6(APC):c.1958+235A>G,83213,rs6899169,intron variant
+chr5,112835593,G,A,Pathogenic,NC_000005.10:g.112835593G>A,NM_000038.6(APC):c.1958+428G>A,3127709,rs2533353179,intron variant
+chr5,112837554,C,T,Pathogenic,NC_000005.10:g.112837554C>T,NM_000038.6(APC):c.1960C>T (p.Gln654Ter),2584136,rs755105138,nonsense|non-coding transcript variant
+chr5,112837559,C,A,Benign,NC_000005.10:g.112837559C>A,NM_000038.6(APC):c.1965C>A (p.Ile655=),3148189,rs765309567,synonymous variant|non-coding transcript variant
+chr5,112837562,A,G,Benign,NC_000005.10:g.112837562A>G,NM_000038.6(APC):c.1968A>G (p.Leu656=),3148154,rs1451500350,synonymous variant|non-coding transcript variant
+chr5,112837571,C,T,Benign,NC_000005.10:g.112837571C>T,NM_000038.6(APC):c.1977C>T (p.Asn659=),3148219,rs1561574172,synonymous variant|non-coding transcript variant
+chr5,112837577,T,A,Pathogenic,NC_000005.10:g.112837577T>A,NM_000038.6(APC):c.1983T>A (p.Cys661Ter),469727,rs1554083862,nonsense
+chr5,112837581,C,T,Pathogenic,NC_000005.10:g.112837581C>T,NM_000038.6(APC):c.1987C>T (p.Gln663Ter),181792,rs730881240,nonsense
+chr5,112837588,T,G,Pathogenic,NC_000005.10:g.112837588T>G,NM_000038.6(APC):c.1994T>G (p.Leu665Ter),940857,rs1765084859,nonsense
+chr5,112837591,T,G,Pathogenic,NC_000005.10:g.112837591T>G,NM_000038.6(APC):c.1997T>G (p.Leu666Ter),1784078,rs2533390096,nonsense
+chr5,112837593,C,T,Pathogenic,NC_000005.10:g.112837593C>T,NM_000038.6(APC):c.1999C>T (p.Gln667Ter),233010,rs876660130,nonsense
+chr5,112837600,T,G,Pathogenic,NC_000005.10:g.112837600T>G,NM_000038.6(APC):c.2006T>G (p.Leu669Ter),988399,rs1765088338,nonsense
+chr5,112837615,T,A,Pathogenic,NC_000005.10:g.112837615T>A,NM_000038.6(APC):c.2021T>A (p.Leu674Ter),537472,rs1554083898,nonsense
+chr5,112837616,G,A,Benign,NC_000005.10:g.112837616G>A,NM_000038.6(APC):c.2022G>A (p.Leu674=),3148794,rs2149858941,synonymous variant|non-coding transcript variant
+chr5,112837619,A,T,Benign,NC_000005.10:g.112837619A>T,NM_000038.6(APC):c.2025A>T (p.Thr675=),3148378,rs2149859027,synonymous variant|non-coding transcript variant
+chr5,112837628,T,C,Benign,NC_000005.10:g.112837628T>C,NM_000038.6(APC):c.2034T>C (p.Ser678=),3148825,rs2533392460,synonymous variant|non-coding transcript variant
+chr5,112837640,A,G,Benign,NC_000005.10:g.112837640A>G,NM_000038.6(APC):c.2046A>G (p.Gly682=),3148824,rs2149859413,synonymous variant|non-coding transcript variant
+chr5,112837645,T,A,Pathogenic,NC_000005.10:g.112837645T>A,NM_000038.6(APC):c.2051T>A (p.Leu684Ter),2584297,rs2149859509,nonsense|non-coding transcript variant
+chr5,112837655,C,G,Benign,NC_000005.10:g.112837655C>G,NM_000038.6(APC):c.2061C>G (p.Leu687=),3148480,rs2149859680,synonymous variant|non-coding transcript variant
+chr5,112837657,C,G,Pathogenic,NC_000005.10:g.112837657C>G,NM_000038.6(APC):c.2063C>G (p.Ser688Ter),2583891,rs1554083930,nonsense|non-coding transcript variant
+chr5,112837657,C,A,Pathogenic,NC_000005.10:g.112837657C>A,NM_000038.6(APC):c.2063C>A (p.Ser688Ter),545723,rs1554083930,nonsense
+chr5,112837662,A,T,Pathogenic,NC_000005.10:g.112837662A>T,NM_000038.6(APC):c.2068A>T (p.Arg690Ter),2452724,rs1561574634,nonsense|non-coding transcript variant
+chr5,112837671,A,T,Pathogenic,NC_000005.10:g.112837671A>T,NM_000038.6(APC):c.2077A>T (p.Lys693Ter),449333,rs773985321,nonsense
+chr5,112837676,C,T,Benign,NC_000005.10:g.112837676C>T,NM_000038.6(APC):c.2082C>T (p.Asp694=),3148030,rs2149860111,synonymous variant|non-coding transcript variant
+chr5,112837677,C,T,Pathogenic,NC_000005.10:g.112837677C>T,NM_000038.6(APC):c.2083C>T (p.Gln695Ter),1458215,rs1439772141,nonsense
+chr5,112837687,T,G,Pathogenic,NC_000005.10:g.112837687T>G,NM_000038.6(APC):c.2093T>G (p.Leu698Ter),433631,rs137854582,nonsense
+chr5,112837687,T,A,Pathogenic,NC_000005.10:g.112837687T>A,NM_000038.6(APC):c.2093T>A (p.Leu698Ter),832,rs137854582,nonsense
+chr5,112837690,G,A,Pathogenic,NC_000005.10:g.112837690G>A,NM_000038.6(APC):c.2096G>A (p.Trp699Ter),411494,rs1060503336,nonsense
+chr5,112837691,G,A,Pathogenic,NC_000005.10:g.112837691G>A,NM_000038.6(APC):c.2097G>A (p.Trp699Ter),411387,rs1060503282,nonsense
+chr5,112837716,A,T,Pathogenic,NC_000005.10:g.112837716A>T,NM_000038.6(APC):c.2122A>T (p.Lys708Ter),3379108,,nonsense|non-coding transcript variant
+chr5,112837724,C,G,Benign,NC_000005.10:g.112837724C>G,NM_000038.6(APC):c.2130C>G (p.Leu710=),3148507,rs1057521787,synonymous variant|non-coding transcript variant
+chr5,112837732,C,A,Pathogenic,NC_000005.10:g.112837732C>A,NM_000038.6(APC):c.2138C>A (p.Ser713Ter),4843517,,nonsense|non-coding transcript variant
+chr5,112837732,C,G,Pathogenic,NC_000005.10:g.112837732C>G,NM_000038.6(APC):c.2138C>G (p.Ser713Ter),800,rs137854570,nonsense
+chr5,112837755,G,T,Pathogenic,NC_000005.10:g.112837755G>T,NM_000038.6(APC):c.2161G>T (p.Gly721Ter),1786925,rs2149862031,nonsense
+chr5,112837757,A,G,Benign,NC_000005.10:g.112837757A>G,NM_000038.6(APC):c.2163A>G (p.Gly721=),3148288,rs2149862090,synonymous variant|non-coding transcript variant
+chr5,112837771,T,G,Pathogenic,NC_000005.10:g.112837771T>G,NM_000038.6(APC):c.2177T>G (p.Leu726Ter),1454461,rs2149862441,nonsense
+chr5,112837793,G,A,Benign,NC_000005.10:g.112837793G>A,NM_000038.6(APC):c.2199G>A (p.Arg733=),3148787,rs2149863061,synonymous variant|non-coding transcript variant
+chr5,112837805,C,A,Pathogenic,NC_000005.10:g.112837805C>A,NM_000038.6(APC):c.2211C>A (p.Tyr737Ter),942080,rs1765131004,nonsense
+chr5,112837805,C,G,Pathogenic,NC_000005.10:g.112837805C>G,NM_000038.6(APC):c.2211C>G (p.Tyr737Ter),968084,rs1765131004,nonsense
+chr5,112837806,A,T,Pathogenic,NC_000005.10:g.112837806A>T,NM_000038.6(APC):c.2212A>T (p.Lys738Ter),1787783,rs2149863411,nonsense
+chr5,112837834,C,A,Pathogenic,NC_000005.10:g.112837834C>A,NM_000038.6(APC):c.2240C>A (p.Ser747Ter),1788273,rs773020689,nonsense
+chr5,112837834,C,G,Pathogenic,NC_000005.10:g.112837834C>G,NM_000038.6(APC):c.2240C>G (p.Ser747Ter),411368,rs773020689,nonsense
+chr5,112837844,A,C,Benign,NC_000005.10:g.112837844A>C,NM_000038.6(APC):c.2250A>C (p.Pro750=),3148759,rs376526724,synonymous variant|non-coding transcript variant
+chr5,112837850,T,G,Benign,NC_000005.10:g.112837850T>G,NM_000038.6(APC):c.2256T>G (p.Leu752=),3148190,rs2149864677,synonymous variant|non-coding transcript variant
+chr5,112837863,C,T,Pathogenic,NC_000005.10:g.112837863C>T,NM_000038.6(APC):c.2269C>T (p.Gln757Ter),2584216,rs2533408880,nonsense|non-coding transcript variant
+chr5,112837872,C,T,Benign,NC_000005.10:g.112837872C>T,NM_000038.6(APC):c.2278C>T (p.Leu760=),3148206,rs1048798213,synonymous variant|non-coding transcript variant
+chr5,112837893,C,T,Pathogenic,NC_000005.10:g.112837893C>T,NM_000038.6(APC):c.2299C>T (p.Gln767Ter),567334,rs1561575998,nonsense
+chr5,112837903,C,A,Pathogenic,NC_000005.10:g.112837903C>A,NM_000038.6(APC):c.2309C>A (p.Ser770Ter),2584243,rs1060503310,nonsense|non-coding transcript variant
+chr5,112837903,C,G,Pathogenic,NC_000005.10:g.112837903C>G,NM_000038.6(APC):c.2309C>G (p.Ser770Ter),411447,rs1060503310,nonsense
+chr5,112837905,G,T,Pathogenic,NC_000005.10:g.112837905G>T,NM_000038.6(APC):c.2311G>T (p.Glu771Ter),1789450,rs2149866092,nonsense
+chr5,112837930,T,G,Pathogenic,NC_000005.10:g.112837930T>G,NM_000038.6(APC):c.2336T>G (p.Leu779Ter),578074,rs1561576302,nonsense
+chr5,112837934,T,C,Benign,NC_000005.10:g.112837934T>C,NM_000038.6(APC):c.2340T>C (p.Ser780=),3147996,rs2533413466,synonymous variant|non-coding transcript variant
+chr5,112837956,A,T,Pathogenic,NC_000005.10:g.112837956A>T,NM_000038.6(APC):c.2362A>T (p.Lys788Ter),2583396,rs1765163287,nonsense|non-coding transcript variant
+chr5,112837959,C,T,Pathogenic,NC_000005.10:g.112837959C>T,NM_000038.6(APC):c.2365C>T (p.Gln789Ter),92341,rs398123117,nonsense
+chr5,112837971,C,T,Pathogenic,NC_000005.10:g.112837971C>T,NM_000038.6(APC):c.2377C>T (p.Gln793Ter),1451499,rs2149867683,nonsense
+chr5,112837976,T,C,Benign,NC_000005.10:g.112837976T>C,NM_000038.6(APC):c.2382T>C (p.Ser794=),3148048,rs2149867862,synonymous variant|non-coding transcript variant
+chr5,112837982,T,G,Pathogenic,NC_000005.10:g.112837982T>G,NM_000038.6(APC):c.2388T>G (p.Tyr796Ter),926508,rs1554084124,nonsense
+chr5,112837991,T,A,Pathogenic,NC_000005.10:g.112837991T>A,NM_000038.6(APC):c.2397T>A (p.Tyr799Ter),1790641,rs1765170817,nonsense
+chr5,112837991,T,G,Pathogenic,NC_000005.10:g.112837991T>G,NM_000038.6(APC):c.2397T>G (p.Tyr799Ter),938906,rs1765170817,nonsense
+chr5,112838007,C,T,Pathogenic,NC_000005.10:g.112838007C>T,NM_000038.6(APC):c.2413C>T (p.Arg805Ter),127281,rs587779783,nonsense
+chr5,112838026,C,G,Pathogenic,NC_000005.10:g.112838026C>G,NM_000038.6(APC):c.2432C>G (p.Ser811Ter),2203685,rs2149869230,nonsense
+chr5,112838045,C,T,Benign,NC_000005.10:g.112838045C>T,NM_000038.6(APC):c.2451C>T (p.Gly817=),3148021,rs1169381951,synonymous variant|non-coding transcript variant
+chr5,112838062,C,A,Pathogenic,NC_000005.10:g.112838062C>A,NM_000038.6(APC):c.2468C>A (p.Ser823Ter),2583937,rs1580622630,nonsense|non-coding transcript variant
+chr5,112838062,C,G,Pathogenic,NC_000005.10:g.112838062C>G,NM_000038.6(APC):c.2468C>G (p.Ser823Ter),1791715,rs1580622630,nonsense
+chr5,112838069,T,G,Pathogenic,NC_000005.10:g.112838069T>G,NM_000038.6(APC):c.2475T>G (p.Tyr825Ter),840815,rs1554084195,nonsense
+chr5,112838070,T,G,Benign,NC_000005.10:g.112838070T>G,NM_000038.6(APC):c.2476T>G (p.Leu826Val),142010,rs145245264,missense variant
+chr5,112838081,A,C,Benign,NC_000005.10:g.112838081A>C,NM_000038.6(APC):c.2487A>C (p.Thr829=),3148069,rs774460348,synonymous variant|non-coding transcript variant
+chr5,112838090,C,G,Benign,NC_000005.10:g.112838090C>G,NM_000038.6(APC):c.2496C>G (p.Pro832=),3148471,rs2149870996,synonymous variant|non-coding transcript variant
+chr5,112838101,C,G,Pathogenic,NC_000005.10:g.112838101C>G,NM_000038.6(APC):c.2507C>G (p.Ser836Ter),2583262,rs1580623270,nonsense|non-coding transcript variant
+chr5,112838101,C,A,Pathogenic,NC_000005.10:g.112838101C>A,NM_000038.6(APC):c.2507C>A (p.Ser836Ter),1072880,rs1580623270,nonsense
+chr5,112838102,A,T,Benign,NC_000005.10:g.112838102A>T,NM_000038.6(APC):c.2508A>T (p.Ser836=),3148176,rs1580623312,synonymous variant|non-coding transcript variant
+chr5,112838104,C,G,Pathogenic,NC_000005.10:g.112838104C>G,NM_000038.6(APC):c.2510C>G (p.Ser837Ter),82631,rs79512956,nonsense
+chr5,112838116,T,G,Pathogenic,NC_000005.10:g.112838116T>G,NM_000038.6(APC):c.2522T>G (p.Leu841Ter),2203686,rs2149871600,nonsense
+chr5,112838149,T,A,Pathogenic,NC_000005.10:g.112838149T>A,NM_000038.6(APC):c.2555T>A (p.Leu852Ter),988522,rs1405022793,nonsense
+chr5,112838151,G,T,Pathogenic,NC_000005.10:g.112838151G>T,NM_000038.6(APC):c.2557G>T (p.Glu853Ter),1071632,rs876659738,nonsense
+chr5,112838157,G,T,Pathogenic,NC_000005.10:g.112838157G>T,NM_000038.6(APC):c.2563G>T (p.Glu855Ter),2583945,rs1320581229,nonsense|non-coding transcript variant
+chr5,112838163,G,T,Pathogenic,NC_000005.10:g.112838163G>T,NM_000038.6(APC):c.2569G>T (p.Gly857Ter),3727564,,nonsense|non-coding transcript variant
+chr5,112838183,C,A,Pathogenic,NC_000005.10:g.112838183C>A,NM_000038.6(APC):c.2589C>A (p.Tyr863Ter),618529,rs1561578229,nonsense
+chr5,112838195,A,G,Benign,NC_000005.10:g.112838195A>G,NM_000038.6(APC):c.2601A>G (p.Thr867=),3148096,rs2149873392,synonymous variant|non-coding transcript variant
+chr5,112838215,C,G,Pathogenic,NC_000005.10:g.112838215C>G,NM_000038.6(APC):c.2621C>G (p.Ser874Ter),469762,rs1554084318,nonsense
+chr5,112838217,A,T,Pathogenic,NC_000005.10:g.112838217A>T,NM_000038.6(APC):c.2623A>T (p.Lys875Ter),2583992,rs1580624931,nonsense|non-coding transcript variant
+chr5,112838220,C,T,Pathogenic,NC_000005.10:g.112838220C>T,NM_000038.6(APC):c.2626C>T (p.Arg876Ter),216014,rs121913333,nonsense
+chr5,112838229,C,T,Pathogenic,NC_000005.10:g.112838229C>T,NM_000038.6(APC):c.2635C>T (p.Gln879Ter),411399,rs1060503287,nonsense
+chr5,112838243,T,C,Benign,NC_000005.10:g.112838243T>C,NM_000038.6(APC):c.2649T>C (p.Thr883=),3148760,rs2149874479,synonymous variant|non-coding transcript variant
+chr5,112838250,C,T,Pathogenic,NC_000005.10:g.112838250C>T,NM_000038.6(APC):c.2656C>T (p.Gln886Ter),486755,rs755806668,nonsense
+chr5,112838255,T,C,Benign,NC_000005.10:g.112838255T>C,NM_000038.6(APC):c.2661T>C (p.Ile887=),3148744,rs2533440124,synonymous variant|non-coding transcript variant
+chr5,112838268,G,T,Pathogenic,NC_000005.10:g.112838268G>T,NM_000038.6(APC):c.2674G>T (p.Glu892Ter),577670,rs1561578889,nonsense
+chr5,112838295,C,T,Pathogenic,NC_000005.10:g.112838295C>T,NM_000038.6(APC):c.2701C>T (p.Gln901Ter),428111,rs1114167559,nonsense
+chr5,112838309,T,C,Benign,NC_000005.10:g.112838309T>C,NM_000038.6(APC):c.2715T>C (p.Ser905=),3148013,rs2149875887,synonymous variant|non-coding transcript variant
+chr5,112838315,G,A,Benign,NC_000005.10:g.112838315G>A,NM_000038.6(APC):c.2721G>A (p.Gly907=),3148208,rs2149875988,synonymous variant|non-coding transcript variant
+chr5,112838325,G,T,Pathogenic,NC_000005.10:g.112838325G>T,NM_000038.6(APC):c.2731G>T (p.Glu911Ter),92343,rs398123119,nonsense
+chr5,112838329,T,A,Pathogenic,NC_000005.10:g.112838329T>A,NM_000038.6(APC):c.2735T>A (p.Leu912Ter),3572907,,nonsense|non-coding transcript variant
+chr5,112838329,T,G,Pathogenic,NC_000005.10:g.112838329T>G,NM_000038.6(APC):c.2735T>G (p.Leu912Ter),2584166,rs2149876241,nonsense|non-coding transcript variant
+chr5,112838346,G,T,Pathogenic,NC_000005.10:g.112838346G>T,NM_000038.6(APC):c.2752G>T (p.Glu918Ter),2584248,rs1765256327,nonsense|non-coding transcript variant
+chr5,112838361,A,T,Pathogenic,NC_000005.10:g.112838361A>T,NM_000038.6(APC):c.2767A>T (p.Arg923Ter),2584259,rs1765259490,nonsense|non-coding transcript variant
+chr5,112838375,T,C,Benign,NC_000005.10:g.112838375T>C,NM_000038.6(APC):c.2781T>C (p.Ala927=),3148661,rs2149877263,synonymous variant|non-coding transcript variant
+chr5,112838378,C,T,Benign,NC_000005.10:g.112838378C>T,NM_000038.6(APC):c.2784C>T (p.Ala928=),3147987,rs2149877311,synonymous variant|non-coding transcript variant
+chr5,112838389,C,A,Pathogenic,NC_000005.10:g.112838389C>A,NM_000038.6(APC):c.2795C>A (p.Ser932Ter),411362,rs878853432,nonsense
+chr5,112838389,C,G,Pathogenic,NC_000005.10:g.112838389C>G,NM_000038.6(APC):c.2795C>G (p.Ser932Ter),236581,rs878853432,nonsense
+chr5,112838399,C,G,Pathogenic,NC_000005.10:g.112838399C>G,NM_000038.6(APC):c.2805C>G (p.Tyr935Ter),186058,rs137854575,nonsense
+chr5,112838399,C,A,Pathogenic,NC_000005.10:g.112838399C>A,NM_000038.6(APC):c.2805C>A (p.Tyr935Ter),810,rs137854575,nonsense
+chr5,112838409,A,T,Pathogenic,NC_000005.10:g.112838409A>T,NM_000038.6(APC):c.2815A>T (p.Lys939Ter),952619,rs1765271867,nonsense
+chr5,112838415,G,T,Pathogenic,NC_000005.10:g.112838415G>T,NM_000038.6(APC):c.2821G>T (p.Glu941Ter),2584055,rs2149878177,nonsense|non-coding transcript variant
+chr5,112838422,C,G,Pathogenic,NC_000005.10:g.112838422C>G,NM_000038.6(APC):c.2828C>G (p.Ser943Ter),821863,rs1554084512,nonsense
+chr5,112838422,C,A,Pathogenic,NC_000005.10:g.112838422C>A,NM_000038.6(APC):c.2828C>A (p.Ser943Ter),559961,rs1554084512,nonsense
+chr5,112838427,A,C,Benign,NC_000005.10:g.112838427A>C,NM_000038.6(APC):c.2833A>C (p.Arg945=),3148420,rs1322051434,synonymous variant|non-coding transcript variant
+chr5,112838435,T,A,Pathogenic,NC_000005.10:g.112838435T>A,NM_000038.6(APC):c.2841T>A (p.Cys947Ter),2584083,rs2149878625,nonsense|non-coding transcript variant
+chr5,112838441,G,A,Benign,NC_000005.10:g.112838441G>A,NM_000038.6(APC):c.2847G>A (p.Met949Ile),3713342,,missense variant|non-coding transcript variant
+chr5,112838447,T,G,Pathogenic,NC_000005.10:g.112838447T>G,NM_000038.6(APC):c.2853T>G (p.Tyr951Ter),1452409,rs575406600,nonsense
+chr5,112838455,T,G,Pathogenic,NC_000005.10:g.112838455T>G,NM_000038.6(APC):c.2861T>G (p.Leu954Ter),1796971,rs2149878966,nonsense
+chr5,112838457,G,T,Pathogenic,NC_000005.10:g.112838457G>T,NM_000038.6(APC):c.2863G>T (p.Glu955Ter),2584048,rs2149879006,nonsense|non-coding transcript variant
+chr5,112838462,C,A,Pathogenic,NC_000005.10:g.112838462C>A,NM_000038.6(APC):c.2868C>A (p.Tyr956Ter),3226657,rs2149879114,nonsense|non-coding transcript variant
+chr5,112838462,C,G,Pathogenic,NC_000005.10:g.112838462C>G,NM_000038.6(APC):c.2868C>G (p.Tyr956Ter),1074001,rs2149879114,nonsense
+chr5,112838463,A,T,Pathogenic,NC_000005.10:g.112838463A>T,NM_000038.6(APC):c.2869A>T (p.Lys957Ter),2583278,rs2149879138,nonsense|non-coding transcript variant
+chr5,112838473,C,G,Pathogenic,NC_000005.10:g.112838473C>G,NM_000038.6(APC):c.2879C>G (p.Ser960Ter),2584084,rs2149879342,nonsense|non-coding transcript variant
+chr5,112838473,C,A,Pathogenic,NC_000005.10:g.112838473C>A,NM_000038.6(APC):c.2879C>A (p.Ser960Ter),1797136,rs2149879342,nonsense
+chr5,112838474,A,G,Benign,NC_000005.10:g.112838474A>G,NM_000038.6(APC):c.2880A>G (p.Ser960=),3148227,rs1339795148,synonymous variant|non-coding transcript variant
+chr5,112838485,T,G,Pathogenic,NC_000005.10:g.112838485T>G,NM_000038.6(APC):c.2891T>G (p.Leu964Ter),4071367,,nonsense|non-coding transcript variant
+chr5,112838485,T,A,Pathogenic,NC_000005.10:g.112838485T>A,NM_000038.6(APC):c.2891T>A (p.Leu964Ter),2584254,rs2533457195,nonsense|non-coding transcript variant
+chr5,112838520,A,T,Pathogenic,NC_000005.10:g.112838520A>T,NM_000038.6(APC):c.2926A>T (p.Arg976Ter),3410382,,nonsense|non-coding transcript variant
+chr5,112838526,C,T,Pathogenic,NC_000005.10:g.112838526C>T,NM_000038.6(APC):c.2932C>T (p.Gln978Ter),1797834,rs1765298309,nonsense
+chr5,112838537,C,T,Benign,NC_000005.10:g.112838537C>T,NM_000038.6(APC):c.2943C>T (p.Pro981=),3148211,rs148153867,synonymous variant|non-coding transcript variant
+chr5,112838540,G,C,Benign,NC_000005.10:g.112838540G>C,NM_000038.6(APC):c.2946G>C (p.Ser982=),3148781,rs377384463,synonymous variant|non-coding transcript variant
+chr5,112838552,T,G,Pathogenic,NC_000005.10:g.112838552T>G,NM_000038.6(APC):c.2958T>G (p.Tyr986Ter),1453350,rs746581330,nonsense
+chr5,112838565,G,T,Pathogenic,NC_000005.10:g.112838565G>T,NM_000038.6(APC):c.2971G>T (p.Glu991Ter),186494,rs786202995,nonsense
+chr5,112838585,T,G,Pathogenic,NC_000005.10:g.112838585T>G,NM_000038.6(APC):c.2991T>G (p.Tyr997Ter),469783,rs864622629,nonsense
+chr5,112838589,C,T,Pathogenic,NC_000005.10:g.112838589C>T,NM_000038.6(APC):c.2995C>T (p.Gln999Ter),433639,rs75239284,nonsense
+chr5,112838594,C,G,Pathogenic,NC_000005.10:g.112838594C>G,NM_000038.6(APC):c.3000C>G (p.Tyr1000Ter),2584078,rs1580629755,nonsense|non-coding transcript variant
+chr5,112838594,C,A,Pathogenic,NC_000005.10:g.112838594C>A,NM_000038.6(APC):c.3000C>A (p.Tyr1000Ter),822551,rs1580629755,nonsense
+chr5,112838606,A,T,Benign,NC_000005.10:g.112838606A>T,NM_000038.6(APC):c.3012A>T (p.Leu1004=),3148306,rs767851390,synonymous variant|non-coding transcript variant
+chr5,112838613,A,T,Pathogenic,NC_000005.10:g.112838613A>T,NM_000038.6(APC):c.3019A>T (p.Lys1007Ter),1798879,rs2149882424,nonsense
+chr5,112838649,G,T,Pathogenic,NC_000005.10:g.112838649G>T,NM_000038.6(APC):c.3055G>T (p.Gly1019Ter),2583215,rs1765326033,nonsense|non-coding transcript variant
+chr5,112838652,G,T,Pathogenic,NC_000005.10:g.112838652G>T,NM_000038.6(APC):c.3058G>T (p.Glu1020Ter),822747,rs1580630407,nonsense
+chr5,112838682,A,T,Pathogenic,NC_000005.10:g.112838682A>T,NM_000038.6(APC):c.3088A>T (p.Lys1030Ter),127284,rs587779786,nonsense
+chr5,112838687,T,G,Pathogenic,NC_000005.10:g.112838687T>G,NM_000038.6(APC):c.3093T>G (p.Tyr1031Ter),2583965,rs2149884161,nonsense|non-coding transcript variant
+chr5,112838689,C,G,Pathogenic,NC_000005.10:g.112838689C>G,NM_000038.6(APC):c.3095C>G (p.Ser1032Ter),2583704,rs2149884210,nonsense|non-coding transcript variant
+chr5,112838697,C,T,Pathogenic,NC_000005.10:g.112838697C>T,NM_000038.6(APC):c.3103C>T (p.Gln1035Ter),1074002,rs2149884384,nonsense
+chr5,112838715,C,T,Pathogenic,NC_000005.10:g.112838715C>T,NM_000038.6(APC):c.3121C>T (p.Gln1041Ter),822934,rs1580631181,nonsense
+chr5,112838740,G,A,Pathogenic,NC_000005.10:g.112838740G>A,NM_000038.6(APC):c.3146G>A (p.Trp1049Ter),230610,rs876658667,nonsense
+chr5,112838741,G,A,Pathogenic,NC_000005.10:g.112838741G>A,NM_000038.6(APC):c.3147G>A (p.Trp1049Ter),217964,rs863225340,nonsense
+chr5,112838765,A,G,Benign,NC_000005.10:g.112838765A>G,NM_000038.6(APC):c.3171A>G (p.Glu1057=),3148808,rs2149885961,synonymous variant|non-coding transcript variant
+chr5,112838769,G,T,Pathogenic,NC_000005.10:g.112838769G>T,NM_000038.6(APC):c.3175G>T (p.Glu1059Ter),2584018,rs1253882360,nonsense|non-coding transcript variant
+chr5,112838771,A,G,Benign,NC_000005.10:g.112838771A>G,NM_000038.6(APC):c.3177A>G (p.Glu1059=),3147999,rs2149886095,synonymous variant|non-coding transcript variant
+chr5,112838778,C,T,Pathogenic,NC_000005.10:g.112838778C>T,NM_000038.6(APC):c.3184C>T (p.Gln1062Ter),469912,rs1554084818,nonsense
+chr5,112838787,C,T,Pathogenic,NC_000005.10:g.112838787C>T,NM_000038.6(APC):c.3193C>T (p.Gln1065Ter),3239719,rs1330361513,nonsense|non-coding transcript variant
+chr5,112838793,C,T,Pathogenic,NC_000005.10:g.112838793C>T,NM_000038.6(APC):c.3199C>T (p.Gln1067Ter),803,rs137854571,nonsense
+chr5,112838797,C,A,Pathogenic,NC_000005.10:g.112838797C>A,NM_000038.6(APC):c.3203C>A (p.Ser1068Ter),579696,rs1554084848,nonsense
+chr5,112838797,C,G,Pathogenic,NC_000005.10:g.112838797C>G,NM_000038.6(APC):c.3203C>G (p.Ser1068Ter),490258,rs1554084848,nonsense
+chr5,112838805,C,T,Pathogenic,NC_000005.10:g.112838805C>T,NM_000038.6(APC):c.3211C>T (p.Gln1071Ter),232078,rs876659539,nonsense
+chr5,112838819,T,A,Pathogenic,NC_000005.10:g.112838819T>A,NM_000038.6(APC):c.3225T>A (p.Tyr1075Ter),845025,rs768123840,nonsense
+chr5,112838831,T,C,Benign,NC_000005.10:g.112838831T>C,NM_000038.6(APC):c.3237T>C (p.Thr1079=),3148024,rs2149887608,synonymous variant|non-coding transcript variant
+chr5,112838862,C,T,Pathogenic,NC_000005.10:g.112838862C>T,NM_000038.6(APC):c.3268C>T (p.Gln1090Ter),823353,rs1580633219,nonsense
+chr5,112838880,C,T,Pathogenic,NC_000005.10:g.112838880C>T,NM_000038.6(APC):c.3286C>T (p.Gln1096Ter),156475,rs587783029,nonsense
+chr5,112838888,T,A,Pathogenic,NC_000005.10:g.112838888T>A,NM_000038.6(APC):c.3294T>A (p.Cys1098Ter),4121142,,nonsense|non-coding transcript variant
+chr5,112838900,C,G,Pathogenic,NC_000005.10:g.112838900C>G,NM_000038.6(APC):c.3306C>G (p.Tyr1102Ter),469916,rs879254092,nonsense
+chr5,112838900,C,A,Pathogenic,NC_000005.10:g.112838900C>A,NM_000038.6(APC):c.3306C>A (p.Tyr1102Ter),246089,rs879254092,nonsense
+chr5,112838905,C,G,Pathogenic,NC_000005.10:g.112838905C>G,NM_000038.6(APC):c.3311C>G (p.Ser1104Ter),647928,rs1580633796,nonsense
+chr5,112838910,G,T,Pathogenic,NC_000005.10:g.112838910G>T,NM_000038.6(APC):c.3316G>T (p.Gly1106Ter),469917,rs1554084921,nonsense
+chr5,112838918,T,C,Benign,NC_000005.10:g.112838918T>C,NM_000038.6(APC):c.3324T>C (p.Asn1108=),3148747,rs1765394805,synonymous variant|non-coding transcript variant
+chr5,112838923,C,G,Pathogenic,NC_000005.10:g.112838923C>G,NM_000038.6(APC):c.3329C>G (p.Ser1110Ter),928634,rs1580634079,nonsense
+chr5,112838923,C,A,Pathogenic,NC_000005.10:g.112838923C>A,NM_000038.6(APC):c.3329C>A (p.Ser1110Ter),851718,rs1580634079,nonsense
+chr5,112838934,C,T,Pathogenic,NC_000005.10:g.112838934C>T,NM_000038.6(APC):c.3340C>T (p.Arg1114Ter),236589,rs121913331,nonsense
+chr5,112838948,T,C,Benign,NC_000005.10:g.112838948T>C,NM_000038.6(APC):c.3354T>C (p.Asn1118=),3148456,rs2149890216,synonymous variant|non-coding transcript variant
+chr5,112838952,G,T,Pathogenic,NC_000005.10:g.112838952G>T,NM_000038.6(APC):c.3358G>T (p.Gly1120Ter),988493,rs1765404132,nonsense
+chr5,112838961,C,T,Pathogenic,NC_000005.10:g.112838961C>T,NM_000038.6(APC):c.3367C>T (p.Gln1123Ter),823671,rs1580634617,nonsense
+chr5,112838973,C,T,Pathogenic,NC_000005.10:g.112838973C>T,NM_000038.6(APC):c.3379C>T (p.Gln1127Ter),856907,rs1765409926,nonsense
+chr5,112838980,T,A,Pathogenic,NC_000005.10:g.112838980T>A,NM_000038.6(APC):c.3386T>A (p.Leu1129Ter),2452701,rs143638171,nonsense|non-coding transcript variant
+chr5,112838985,C,T,Pathogenic,NC_000005.10:g.112838985C>T,NM_000038.6(APC):c.3391C>T (p.Gln1131Ter),236590,rs878853438,nonsense
+chr5,112838988,G,T,Pathogenic,NC_000005.10:g.112838988G>T,NM_000038.6(APC):c.3394G>T (p.Glu1132Ter),3653024,,nonsense|non-coding transcript variant
+chr5,112838999,T,C,Benign,NC_000005.10:g.112838999T>C,NM_000038.6(APC):c.3405T>C (p.Tyr1135=),3148761,rs2533495422,synonymous variant|non-coding transcript variant
+chr5,112839005,T,C,Benign,NC_000005.10:g.112839005T>C,NM_000038.6(APC):c.3411T>C (p.Asp1137=),3148762,rs2149891369,synonymous variant|non-coding transcript variant
+chr5,112839023,T,A,Pathogenic,NC_000005.10:g.112839023T>A,NM_000038.6(APC):c.3429T>A (p.Tyr1143Ter),2583939,rs1554084999,nonsense|non-coding transcript variant
+chr5,112839035,C,A,Pathogenic,NC_000005.10:g.112839035C>A,NM_000038.6(APC):c.3441C>A (p.Tyr1147Ter),1731471,rs2149891970,nonsense
+chr5,112839035,C,G,Pathogenic,NC_000005.10:g.112839035C>G,NM_000038.6(APC):c.3441C>G (p.Tyr1147Ter),1683653,rs2149891970,nonsense
+chr5,112839039,G,T,Pathogenic,NC_000005.10:g.112839039G>T,NM_000038.6(APC):c.3445G>T (p.Glu1149Ter),1401969,rs371117193,nonsense
+chr5,112839042,G,T,Pathogenic,NC_000005.10:g.112839042G>T,NM_000038.6(APC):c.3448G>T (p.Glu1150Ter),3410322,,nonsense|non-coding transcript variant
+chr5,112839048,C,T,Pathogenic,NC_000005.10:g.112839048C>T,NM_000038.6(APC):c.3454C>T (p.Gln1152Ter),433645,rs1064795228,nonsense
+chr5,112839054,G,T,Pathogenic,NC_000005.10:g.112839054G>T,NM_000038.6(APC):c.3460G>T (p.Glu1154Ter),1731643,rs2149892395,nonsense
+chr5,112839057,G,T,Pathogenic,NC_000005.10:g.112839057G>T,NM_000038.6(APC):c.3463G>T (p.Glu1155Ter),2203689,rs774847322,nonsense
+chr5,112839060,G,T,Pathogenic,NC_000005.10:g.112839060G>T,NM_000038.6(APC):c.3466G>T (p.Glu1156Ter),848934,rs1444797750,nonsense
+chr5,112839063,G,T,Pathogenic,NC_000005.10:g.112839063G>T,NM_000038.6(APC):c.3469G>T (p.Glu1157Ter),2583245,rs1554085038,nonsense|non-coding transcript variant
+chr5,112839068,A,G,Benign,NC_000005.10:g.112839068A>G,NM_000038.6(APC):c.3474A>G (p.Arg1158=),3148103,rs371597034,synonymous variant|non-coding transcript variant
+chr5,112839087,A,T,Pathogenic,NC_000005.10:g.112839087A>T,NM_000038.6(APC):c.3493A>T (p.Lys1165Ter),1731962,rs2149893078,nonsense
+chr5,112839089,A,G,Benign,NC_000005.10:g.112839089A>G,NM_000038.6(APC):c.3495A>G (p.Lys1165=),3148278,rs1765439878,synonymous variant|non-coding transcript variant
+chr5,112839096,G,T,Pathogenic,NC_000005.10:g.112839096G>T,NM_000038.6(APC):c.3502G>T (p.Glu1168Ter),2583213,rs2149893243,nonsense|non-coding transcript variant
+chr5,112839117,C,T,Pathogenic,NC_000005.10:g.112839117C>T,NM_000038.6(APC):c.3523C>T (p.Gln1175Ter),537459,rs1554085081,nonsense
+chr5,112839136,T,A,Pathogenic,NC_000005.10:g.112839136T>A,NM_000038.6(APC):c.3542T>A (p.Leu1181Ter),433648,rs1554085102,nonsense
+chr5,112839143,T,G,Pathogenic,NC_000005.10:g.112839143T>G,NM_000038.6(APC):c.3549T>G (p.Tyr1183Ter),565402,rs1561585641,nonsense
+chr5,112839152,T,C,Benign,NC_000005.10:g.112839152T>C,NM_000038.6(APC):c.3558T>C (p.Asp1186=),3148174,rs2149894309,synonymous variant|non-coding transcript variant
+chr5,112839158,T,A,Benign,NC_000005.10:g.112839158T>A,NM_000038.6(APC):c.3564T>A (p.Pro1188=),3148329,rs1367649227,synonymous variant|non-coding transcript variant
+chr5,112839160,C,A,Pathogenic,NC_000005.10:g.112839160C>A,NM_000038.6(APC):c.3566C>A (p.Ser1189Ter),1732741,rs1765458794,nonsense
+chr5,112839165,C,T,Pathogenic,NC_000005.10:g.112839165C>T,NM_000038.6(APC):c.3571C>T (p.Gln1191Ter),428096,rs1114167547,nonsense
+chr5,112839167,G,A,Benign,NC_000005.10:g.112839167G>A,NM_000038.6(APC):c.3573G>A (p.Gln1191=),3148001,rs2149894670,synonymous variant|non-coding transcript variant
+chr5,112839171,C,T,Pathogenic,NC_000005.10:g.112839171C>T,NM_000038.6(APC):c.3577C>T (p.Gln1193Ter),492664,rs1554085128,nonsense
+chr5,112839175,C,A,Pathogenic,NC_000005.10:g.112839175C>A,NM_000038.6(APC):c.3581C>A (p.Ser1194Ter),1192196,rs2149894857,nonsense
+chr5,112839175,C,G,Pathogenic,NC_000005.10:g.112839175C>G,NM_000038.6(APC):c.3581C>G (p.Ser1194Ter),2678177,rs2149894857,nonsense|non-coding transcript variant
+chr5,112839181,C,A,Pathogenic,NC_000005.10:g.112839181C>A,NM_000038.6(APC):c.3587C>A (p.Ser1196Ter),3779681,,nonsense|non-coding transcript variant
+chr5,112839187,C,G,Pathogenic,NC_000005.10:g.112839187C>G,NM_000038.6(APC):c.3593C>G (p.Ser1198Ter),246086,rs879254089,nonsense
+chr5,112839196,C,A,Pathogenic,NC_000005.10:g.112839196C>A,NM_000038.6(APC):c.3602C>A (p.Ser1201Ter),217968,rs730881247,nonsense
+chr5,112839196,C,G,Pathogenic,NC_000005.10:g.112839196C>G,NM_000038.6(APC):c.3602C>G (p.Ser1201Ter),181803,rs730881247,nonsense
+chr5,112839204,C,T,Pathogenic,NC_000005.10:g.112839204C>T,NM_000038.6(APC):c.3610C>T (p.Gln1204Ter),2583946,rs2533511336,nonsense|non-coding transcript variant
+chr5,112839221,A,G,Benign,NC_000005.10:g.112839221A>G,NM_000038.6(APC):c.3627A>G (p.Glu1209=),3148739,rs1765478583,synonymous variant|non-coding transcript variant
+chr5,112839232,C,A,Pathogenic,NC_000005.10:g.112839232C>A,NM_000038.6(APC):c.3638C>A (p.Ser1213Ter),1421867,rs1554085199,nonsense
+chr5,112839251,C,T,Benign,NC_000005.10:g.112839251C>T,NM_000038.6(APC):c.3657C>T (p.Ser1219=),3148205,rs1001469995,synonymous variant|non-coding transcript variant
+chr5,112839259,C,A,Pathogenic,NC_000005.10:g.112839259C>A,NM_000038.6(APC):c.3665C>A (p.Ser1222Ter),428183,rs1114167614,nonsense
+chr5,112839276,C,T,Pathogenic,NC_000005.10:g.112839276C>T,NM_000038.6(APC):c.3682C>T (p.Gln1228Ter),433650,rs1554085227,nonsense
+chr5,112839282,C,T,Pathogenic,NC_000005.10:g.112839282C>T,NM_000038.6(APC):c.3688C>T (p.Gln1230Ter),217969,rs863225344,nonsense
+chr5,112839284,G,A,Benign,NC_000005.10:g.112839284G>A,NM_000038.6(APC):c.3690G>A (p.Gln1230=),3148076,rs147268065,synonymous variant|non-coding transcript variant
+chr5,112839287,C,A,Benign,NC_000005.10:g.112839287C>A,NM_000038.6(APC):c.3693C>A (p.Leu1231=),3148725,rs1554085234,synonymous variant|non-coding transcript variant
+chr5,112839303,C,T,Pathogenic,NC_000005.10:g.112839303C>T,NM_000038.6(APC):c.3709C>T (p.Gln1237Ter),1071298,rs1185643240,nonsense
+chr5,112839318,C,T,Pathogenic,NC_000005.10:g.112839318C>T,NM_000038.6(APC):c.3724C>T (p.Gln1242Ter),1070306,rs1460397656,nonsense
+chr5,112839320,G,A,Benign,NC_000005.10:g.112839320G>A,NM_000038.6(APC):c.3726G>A (p.Gln1242=),3148070,rs1765504362,synonymous variant|non-coding transcript variant
+chr5,112839324,C,T,Pathogenic,NC_000005.10:g.112839324C>T,NM_000038.6(APC):c.3730C>T (p.Gln1244Ter),630045,rs79122263,nonsense
+chr5,112839326,A,G,Benign,NC_000005.10:g.112839326A>G,NM_000038.6(APC):c.3732A>G (p.Gln1244=),183767,rs74380081,synonymous variant
+chr5,112839340,G,C,Benign,NC_000005.10:g.112839340G>C,NM_000038.6(APC):c.3746G>C (p.Cys1249Ser),2445264,rs747554965,missense variant
+chr5,112839341,C,A,Pathogenic,NC_000005.10:g.112839341C>A,NM_000038.6(APC):c.3747C>A (p.Cys1249Ter),1343300,rs2149898263,nonsense
+chr5,112839350,T,C,Benign,NC_000005.10:g.112839350T>C,NM_000038.6(APC):c.3756T>C (p.Ser1252=),3148745,rs2149898411,synonymous variant|non-coding transcript variant
+chr5,112839360,C,T,Pathogenic,NC_000005.10:g.112839360C>T,NM_000038.6(APC):c.3766C>T (p.Gln1256Ter),433653,rs77056664,nonsense
+chr5,112839363,G,T,Pathogenic,NC_000005.10:g.112839363G>T,NM_000038.6(APC):c.3769G>T (p.Glu1257Ter),824181,rs1580639836,nonsense
+chr5,112839372,C,T,Pathogenic,NC_000005.10:g.112839372C>T,NM_000038.6(APC):c.3778C>T (p.Gln1260Ter),2583987,rs2149898795,nonsense|non-coding transcript variant
+chr5,112839380,T,A,Pathogenic,NC_000005.10:g.112839380T>A,NM_000038.6(APC):c.3786T>A (p.Tyr1262Ter),968431,rs147411334,nonsense
+chr5,112839380,T,G,Pathogenic,NC_000005.10:g.112839380T>G,NM_000038.6(APC):c.3786T>G (p.Tyr1262Ter),537417,rs147411334,nonsense
+chr5,112839387,G,T,Pathogenic,NC_000005.10:g.112839387G>T,NM_000038.6(APC):c.3793G>T (p.Glu1265Ter),2584067,rs2149899129,nonsense|non-coding transcript variant
+chr5,112839404,T,A,Pathogenic,NC_000005.10:g.112839404T>A,NM_000038.6(APC):c.3810T>A (p.Cys1270Ter),217972,rs863225347,nonsense
+chr5,112839409,C,A,Pathogenic,NC_000005.10:g.112839409C>A,NM_000038.6(APC):c.3815C>A (p.Ser1272Ter),2583968,rs863225348,nonsense|non-coding transcript variant
+chr5,112839409,C,G,Pathogenic,NC_000005.10:g.112839409C>G,NM_000038.6(APC):c.3815C>G (p.Ser1272Ter),217973,rs863225348,nonsense
+chr5,112839411,A,T,Pathogenic,NC_000005.10:g.112839411A>T,NM_000038.6(APC):c.3817A>T (p.Arg1273Ter),1330521,rs2149899615,nonsense
+chr5,112839416,T,A,Pathogenic,NC_000005.10:g.112839416T>A,NM_000038.6(APC):c.3822T>A (p.Cys1274Ter),1735279,rs1554085326,nonsense
+chr5,112839421,C,G,Pathogenic,NC_000005.10:g.112839421C>G,NM_000038.6(APC):c.3827C>G (p.Ser1276Ter),492666,rs1060503299,nonsense
+chr5,112839421,C,A,Pathogenic,NC_000005.10:g.112839421C>A,NM_000038.6(APC):c.3827C>A (p.Ser1276Ter),411428,rs1060503299,nonsense
+chr5,112839431,T,A,Benign,NC_000005.10:g.112839431T>A,NM_000038.6(APC):c.3837T>A (p.Ser1279=),3148532,rs1057522493,synonymous variant|non-coding transcript variant
+chr5,112839434,G,A,Benign,NC_000005.10:g.112839434G>A,NM_000038.6(APC):c.3840G>A (p.Leu1280=),3148074,rs2149900186,synonymous variant|non-coding transcript variant
+chr5,112839436,C,G,Pathogenic,NC_000005.10:g.112839436C>G,NM_000038.6(APC):c.3842C>G (p.Ser1281Ter),952911,rs1765536013,nonsense
+chr5,112839439,C,G,Pathogenic,NC_000005.10:g.112839439C>G,NM_000038.6(APC):c.3845C>G (p.Ser1282Ter),844994,rs1765536690,nonsense
+chr5,112839444,G,T,Pathogenic,NC_000005.10:g.112839444G>T,NM_000038.6(APC):c.3850G>T (p.Glu1284Ter),946474,rs1765537897,nonsense
+chr5,112839449,T,C,Benign,NC_000005.10:g.112839449T>C,NM_000038.6(APC):c.3855T>C (p.Asp1285=),3148784,rs2149900558,synonymous variant|non-coding transcript variant
+chr5,112839450,G,T,Pathogenic,NC_000005.10:g.112839450G>T,NM_000038.6(APC):c.3856G>T (p.Glu1286Ter),1735562,rs2533529597,nonsense
+chr5,112839458,A,T,Benign,NC_000005.10:g.112839458A>T,NM_000038.6(APC):c.3864A>T (p.Gly1288=),3148128,rs2149900810,synonymous variant|non-coding transcript variant
+chr5,112839461,T,A,Pathogenic,NC_000005.10:g.112839461T>A,NM_000038.6(APC):c.3867T>A (p.Cys1289Ter),545962,rs1554085355,nonsense
+chr5,112839465,C,T,Pathogenic,NC_000005.10:g.112839465C>T,NM_000038.6(APC):c.3871C>T (p.Gln1291Ter),575517,rs1561588104,nonsense
+chr5,112839474,C,T,Pathogenic,NC_000005.10:g.112839474C>T,NM_000038.6(APC):c.3880C>T (p.Gln1294Ter),469942,rs1554085373,nonsense
+chr5,112839477,G,T,Pathogenic,NC_000005.10:g.112839477G>T,NM_000038.6(APC):c.3883G>T (p.Glu1295Ter),2102818,rs2149901204,nonsense
+chr5,112839482,A,C,Benign,NC_000005.10:g.112839482A>C,NM_000038.6(APC):c.3888A>C (p.Ala1296=),3148238,rs2149901314,synonymous variant|non-coding transcript variant
+chr5,112839501,C,T,Pathogenic,NC_000005.10:g.112839501C>T,NM_000038.6(APC):c.3907C>T (p.Gln1303Ter),1076263,rs2149901776,nonsense
+chr5,112839510,G,T,Pathogenic,NC_000005.10:g.112839510G>T,NM_000038.6(APC):c.3916G>T (p.Glu1306Ter),376059,rs121913462,nonsense
+chr5,112839519,G,T,Pathogenic,NC_000005.10:g.112839519G>T,NM_000038.6(APC):c.3925G>T (p.Glu1309Ter),824390,rs1321583762,nonsense
+chr5,112839522,A,T,Pathogenic,NC_000005.10:g.112839522A>T,NM_000038.6(APC):c.3928A>T (p.Lys1310Ter),1449226,rs2149902263,nonsense
+chr5,112839538,C,A,Pathogenic,NC_000005.10:g.112839538C>A,NM_000038.6(APC):c.3944C>A (p.Ser1315Ter),958617,rs1765564648,nonsense
+chr5,112839551,T,G,Benign,NC_000005.10:g.112839551T>G,NM_000038.6(APC):c.3957T>G (p.Pro1319=),3148192,rs773123653,synonymous variant|non-coding transcript variant
+chr5,112839569,A,G,Benign,NC_000005.10:g.112839569A>G,NM_000038.6(APC):c.3975A>G (p.Ala1325=),3148119,rs2149903274,synonymous variant|non-coding transcript variant
+chr5,112839572,G,A,Benign,NC_000005.10:g.112839572G>A,NM_000038.6(APC):c.3978G>A (p.Val1326=),3148292,rs2149903342,synonymous variant|non-coding transcript variant
+chr5,112839574,C,G,Pathogenic,NC_000005.10:g.112839574C>G,NM_000038.6(APC):c.3980C>G (p.Ser1327Ter),469943,rs1554085429,nonsense
+chr5,112839574,C,A,Pathogenic,NC_000005.10:g.112839574C>A,NM_000038.6(APC):c.3980C>A (p.Ser1327Ter),2584181,rs1554085429,nonsense|non-coding transcript variant
+chr5,112839576,C,T,Pathogenic,NC_000005.10:g.112839576C>T,NM_000038.6(APC):c.3982C>T (p.Gln1328Ter),92346,rs398123121,nonsense
+chr5,112839600,A,T,Pathogenic,NC_000005.10:g.112839600A>T,NM_000038.6(APC):c.4006A>T (p.Arg1336Ter),648675,rs1580642648,nonsense
+chr5,112839606,C,T,Pathogenic,NC_000005.10:g.112839606C>T,NM_000038.6(APC):c.4012C>T (p.Gln1338Ter),801,rs121913327,nonsense
+chr5,112839619,T,G,Pathogenic,NC_000005.10:g.112839619T>G,NM_000038.6(APC):c.4025T>G (p.Leu1342Ter),645602,rs1580643026,nonsense
+chr5,112839625,C,G,Pathogenic,NC_000005.10:g.112839625C>G,NM_000038.6(APC):c.4031C>G (p.Ser1344Ter),428137,rs1114167578,nonsense
+chr5,112839627,G,T,Pathogenic,NC_000005.10:g.112839627G>T,NM_000038.6(APC):c.4033G>T (p.Glu1345Ter),449334,rs1211642532,nonsense
+chr5,112839631,C,G,Pathogenic,NC_000005.10:g.112839631C>G,NM_000038.6(APC):c.4037C>G (p.Ser1346Ter),2734769,rs2149904709,nonsense|non-coding transcript variant
+chr5,112839631,C,A,Pathogenic,NC_000005.10:g.112839631C>A,NM_000038.6(APC):c.4037C>A (p.Ser1346Ter),1737245,rs2149904709,nonsense
+chr5,112839651,G,T,Pathogenic,NC_000005.10:g.112839651G>T,NM_000038.6(APC):c.4057G>T (p.Glu1353Ter),428122,rs1114167568,nonsense
+chr5,112839661,C,A,Pathogenic,NC_000005.10:g.112839661C>A,NM_000038.6(APC):c.4067C>A (p.Ser1356Ter),2583956,rs1554085480,nonsense|non-coding transcript variant
+chr5,112839661,C,G,Pathogenic,NC_000005.10:g.112839661C>G,NM_000038.6(APC):c.4067C>G (p.Ser1356Ter),486783,rs1554085480,nonsense
+chr5,112839663,G,T,Pathogenic,NC_000005.10:g.112839663G>T,NM_000038.6(APC):c.4069G>T (p.Gly1357Ter),3304139,,nonsense|non-coding transcript variant
+chr5,112839669,A,T,Pathogenic,NC_000005.10:g.112839669A>T,NM_000038.6(APC):c.4075A>T (p.Lys1359Ter),217977,rs863225352,nonsense
+chr5,112839689,T,C,Benign,NC_000005.10:g.112839689T>C,NM_000038.6(APC):c.4095T>C (p.Gly1365=),3147992,rs2149906319,synonymous variant|non-coding transcript variant
+chr5,112839693,C,T,Pathogenic,NC_000005.10:g.112839693C>T,NM_000038.6(APC):c.4099C>T (p.Gln1367Ter),376060,rs121913328,nonsense
+chr5,112839722,T,G,Pathogenic,NC_000005.10:g.112839722T>G,NM_000038.6(APC):c.4128T>G (p.Tyr1376Ter),2583226,rs1554085539,nonsense|non-coding transcript variant
+chr5,112839722,T,A,Pathogenic,NC_000005.10:g.112839722T>A,NM_000038.6(APC):c.4128T>A (p.Tyr1376Ter),1738059,rs1554085539,nonsense
+chr5,112839726,C,T,Pathogenic,NC_000005.10:g.112839726C>T,NM_000038.6(APC):c.4132C>T (p.Gln1378Ter),376061,rs121913329,nonsense
+chr5,112839729,G,T,Pathogenic,NC_000005.10:g.112839729G>T,NM_000038.6(APC):c.4135G>T (p.Glu1379Ter),376062,rs121913326,nonsense
+chr5,112839731,G,A,Benign,NC_000005.10:g.112839731G>A,NM_000038.6(APC):c.4137G>A (p.Glu1379=),3148197,rs754292742,synonymous variant|non-coding transcript variant
+chr5,112839755,T,A,Pathogenic,NC_000005.10:g.112839755T>A,NM_000038.6(APC):c.4161T>A (p.Cys1387Ter),1050660,rs2149907906,nonsense
+chr5,112839769,C,G,Pathogenic,NC_000005.10:g.112839769C>G,NM_000038.6(APC):c.4175C>G (p.Ser1392Ter),4540629,,nonsense|non-coding transcript variant
+chr5,112839769,C,A,Pathogenic,NC_000005.10:g.112839769C>A,NM_000038.6(APC):c.4175C>A (p.Ser1392Ter),188240,rs786204170,nonsense
+chr5,112839783,G,T,Pathogenic,NC_000005.10:g.112839783G>T,NM_000038.6(APC):c.4189G>T (p.Glu1397Ter),3720646,,nonsense|non-coding transcript variant
+chr5,112839793,C,A,Pathogenic,NC_000005.10:g.112839793C>A,NM_000038.6(APC):c.4199C>A (p.Ser1400Ter),2136317,rs267600319,nonsense
+chr5,112839806,C,G,Benign,NC_000005.10:g.112839806C>G,NM_000038.6(APC):c.4212C>G (p.Ser1404=),3148438,rs144655979,synonymous variant|non-coding transcript variant
+chr5,112839810,C,T,Pathogenic,NC_000005.10:g.112839810C>T,NM_000038.6(APC):c.4216C>T (p.Gln1406Ter),142519,rs587782518,nonsense
+chr5,112839854,C,G,Benign,NC_000005.10:g.112839854C>G,NM_000038.6(APC):c.4260C>G (p.Pro1420=),3148272,rs770579741,synonymous variant|non-coding transcript variant
+chr5,112839879,C,T,Pathogenic,NC_000005.10:g.112839879C>T,NM_000038.6(APC):c.4285C>T (p.Gln1429Ter),376063,rs74535574,nonsense
+chr5,112839932,T,G,Benign,NC_000005.10:g.112839932T>G,NM_000038.6(APC):c.4338T>G (p.Ala1446=),3148193,rs2149912136,synonymous variant|non-coding transcript variant
+chr5,112839933,C,T,Pathogenic,NC_000005.10:g.112839933C>T,NM_000038.6(APC):c.4339C>T (p.Gln1447Ter),1070561,rs1561591598,nonsense
+chr5,112839939,A,T,Pathogenic,NC_000005.10:g.112839939A>T,NM_000038.6(APC):c.4345A>T (p.Lys1449Ter),3904047,,nonsense|non-coding transcript variant
+chr5,112839942,C,T,Pathogenic,NC_000005.10:g.112839942C>T,NM_000038.6(APC):c.4348C>T (p.Arg1450Ter),194585,rs121913332,nonsense
+chr5,112839953,T,G,Benign,NC_000005.10:g.112839953T>G,NM_000038.6(APC):c.4359T>G (p.Pro1453=),3148194,rs369121091,synonymous variant|non-coding transcript variant
+chr5,112839960,A,T,Pathogenic,NC_000005.10:g.112839960A>T,NM_000038.6(APC):c.4366A>T (p.Lys1456Ter),4721654,,nonsense|non-coding transcript variant
+chr5,112839965,A,G,Benign,NC_000005.10:g.112839965A>G,NM_000038.6(APC):c.4371A>G (p.Ala1457=),3148094,rs2149913050,synonymous variant|non-coding transcript variant
+chr5,112839990,G,T,Pathogenic,NC_000005.10:g.112839990G>T,NM_000038.6(APC):c.4396G>T (p.Gly1466Ter),2000621,rs1765672840,nonsense
+chr5,112839993,C,T,Benign,NC_000005.10:g.112839993C>T,NM_000038.6(APC):c.4399C>T (p.Pro1467Ser),411419,rs749142480,missense variant
+chr5,112839999,C,T,Pathogenic,NC_000005.10:g.112839999C>T,NM_000038.6(APC):c.4405C>T (p.Gln1469Ter),433662,rs1060503288,nonsense
+chr5,112840014,G,A,Benign,NC_000005.10:g.112840014G>A,NM_000038.6(APC):c.4420G>A (p.Ala1474Thr),133530,rs139387758,missense variant
+chr5,112840023,C,T,Pathogenic,NC_000005.10:g.112840023C>T,NM_000038.6(APC):c.4429C>T (p.Gln1477Ter),2584019,rs2149914507,nonsense|non-coding transcript variant
+chr5,112840032,C,T,Pathogenic,NC_000005.10:g.112840032C>T,NM_000038.6(APC):c.4438C>T (p.Gln1480Ter),1456637,rs2149914756,nonsense
+chr5,112840040,T,C,Benign,NC_000005.10:g.112840040T>C,NM_000038.6(APC):c.4446T>C (p.Leu1482=),3148014,rs2533575799,synonymous variant|non-coding transcript variant
+chr5,112840055,T,G,Benign,NC_000005.10:g.112840055T>G,NM_000038.6(APC):c.4461T>G (p.Thr1487=),3148308,rs2149915272,synonymous variant|non-coding transcript variant
+chr5,112840057,T,G,Pathogenic,NC_000005.10:g.112840057T>G,NM_000038.6(APC):c.4463T>G (p.Leu1488Ter),1382846,rs786202324,nonsense
+chr5,112840060,T,G,Pathogenic,NC_000005.10:g.112840060T>G,NM_000038.6(APC):c.4466T>G (p.Leu1489Ter),950286,rs1765687695,nonsense
+chr5,112840073,G,A,Benign,NC_000005.10:g.112840073G>A,NM_000038.6(APC):c.4479G>A (p.Thr1493=),42242,rs41115,synonymous variant
+chr5,112840085,A,C,Benign,NC_000005.10:g.112840085A>C,NM_000038.6(APC):c.4491A>C (p.Pro1497=),3148077,rs904213754,synonymous variant|non-coding transcript variant
+chr5,112840089,G,T,Pathogenic,NC_000005.10:g.112840089G>T,NM_000038.6(APC):c.4495G>T (p.Gly1499Ter),217983,rs756912930,nonsense
+chr5,112840100,T,A,Pathogenic,NC_000005.10:g.112840100T>A,NM_000038.6(APC):c.4506T>A (p.Cys1502Ter),2630813,rs2149916320,nonsense|non-coding transcript variant
+chr5,112840102,C,A,Pathogenic,NC_000005.10:g.112840102C>A,NM_000038.6(APC):c.4508C>A (p.Ser1503Ter),2584283,rs2149916356,nonsense|non-coding transcript variant
+chr5,112840106,C,T,Benign,NC_000005.10:g.112840106C>T,NM_000038.6(APC):c.4512C>T (p.Ser1504=),3148089,rs999881274,synonymous variant|non-coding transcript variant
+chr5,112840121,G,A,Benign,NC_000005.10:g.112840121G>A,NM_000038.6(APC):c.4527G>A (p.Leu1509=),3148241,rs2149916826,synonymous variant|non-coding transcript variant
+chr5,112840131,G,T,Pathogenic,NC_000005.10:g.112840131G>T,NM_000038.6(APC):c.4537G>T (p.Glu1513Ter),1075816,rs1765705285,nonsense
+chr5,112840136,A,T,Benign,NC_000005.10:g.112840136A>T,NM_000038.6(APC):c.4542A>T (p.Pro1514=),3148298,rs1459239401,synonymous variant|non-coding transcript variant
+chr5,112840143,C,T,Pathogenic,NC_000005.10:g.112840143C>T,NM_000038.6(APC):c.4549C>T (p.Gln1517Ter),428157,rs1114167596,nonsense
+chr5,112840146,A,T,Pathogenic,NC_000005.10:g.112840146A>T,NM_000038.6(APC):c.4552A>T (p.Lys1518Ter),2583736,rs1554085958,nonsense|non-coding transcript variant
+chr5,112840151,T,C,Benign,NC_000005.10:g.112840151T>C,NM_000038.6(APC):c.4557T>C (p.Asp1519=),3148000,rs2149917506,synonymous variant|non-coding transcript variant
+chr5,112840154,G,A,Benign,NC_000005.10:g.112840154G>A,NM_000038.6(APC):c.4560G>A (p.Val1520=),3148163,rs2149917571,synonymous variant|non-coding transcript variant
+chr5,112840158,T,C,Benign,NC_000005.10:g.112840158T>C,NM_000038.6(APC):c.4564T>C (p.Leu1522=),3148181,rs2149917667,synonymous variant|non-coding transcript variant
+chr5,112840179,C,T,Pathogenic,NC_000005.10:g.112840179C>T,NM_000038.6(APC):c.4585C>T (p.Gln1529Ter),449335,rs1554085992,nonsense
+chr5,112840181,G,A,Benign,NC_000005.10:g.112840181G>A,NM_000038.6(APC):c.4587G>A (p.Gln1529=),3148130,rs2149918287,synonymous variant|non-coding transcript variant
+chr5,112840182,G,T,Pathogenic,NC_000005.10:g.112840182G>T,NM_000038.6(APC):c.4588G>T (p.Glu1530Ter),2584285,rs1580649974,nonsense|non-coding transcript variant
+chr5,112840196,G,A,Benign,NC_000005.10:g.112840196G>A,NM_000038.6(APC):c.4602G>A (p.Gly1534=),3148221,rs2149918726,synonymous variant|non-coding transcript variant
+chr5,112840200,G,T,Pathogenic,NC_000005.10:g.112840200G>T,NM_000038.6(APC):c.4606G>T (p.Glu1536Ter),1050551,rs1554086001,nonsense
+chr5,112840210,C,A,Pathogenic,NC_000005.10:g.112840210C>A,NM_000038.6(APC):c.4616C>A (p.Ser1539Ter),492668,rs1554086008,nonsense
+chr5,112840211,A,T,Benign,NC_000005.10:g.112840211A>T,NM_000038.6(APC):c.4617A>T (p.Ser1539=),3148295,rs1554086014,synonymous variant|non-coding transcript variant
+chr5,112840215,C,T,Pathogenic,NC_000005.10:g.112840215C>T,NM_000038.6(APC):c.4621C>T (p.Gln1541Ter),184934,rs786201801,nonsense
+chr5,112840220,T,G,Benign,NC_000005.10:g.112840220T>G,NM_000038.6(APC):c.4626T>G (p.Pro1542=),3148365,rs2149919440,synonymous variant|non-coding transcript variant
+chr5,112840226,A,G,Benign,NC_000005.10:g.112840226A>G,NM_000038.6(APC):c.4632A>G (p.Glu1544=),3147980,rs2149919539,synonymous variant|non-coding transcript variant
+chr5,112840228,C,A,Pathogenic,NC_000005.10:g.112840228C>A,NM_000038.6(APC):c.4634C>A (p.Ser1545Ter),490280,rs863225356,nonsense
+chr5,112840228,C,G,Pathogenic,NC_000005.10:g.112840228C>G,NM_000038.6(APC):c.4634C>G (p.Ser1545Ter),217985,rs863225356,nonsense
+chr5,112840229,A,G,Benign,NC_000005.10:g.112840229A>G,NM_000038.6(APC):c.4635A>G (p.Ser1545=),3148012,rs2149919621,synonymous variant|non-coding transcript variant
+chr5,112840239,C,T,Pathogenic,NC_000005.10:g.112840239C>T,NM_000038.6(APC):c.4645C>T (p.Gln1549Ter),217986,rs863225357,nonsense
+chr5,112840242,G,T,Pathogenic,NC_000005.10:g.112840242G>T,NM_000038.6(APC):c.4648G>T (p.Glu1550Ter),2780063,rs2149920018,nonsense|non-coding transcript variant
+chr5,112840248,G,T,Pathogenic,NC_000005.10:g.112840248G>T,NM_000038.6(APC):c.4654G>T (p.Glu1552Ter),2583966,rs2149920210,nonsense|non-coding transcript variant
+chr5,112840253,A,G,Benign,NC_000005.10:g.112840253A>G,NM_000038.6(APC):c.4659A>G (p.Ala1553=),3147988,rs2149920334,synonymous variant|non-coding transcript variant
+chr5,112840254,G,T,Pathogenic,NC_000005.10:g.112840254G>T,NM_000038.6(APC):c.4660G>T (p.Glu1554Ter),433664,rs1392778905,nonsense
+chr5,112840256,A,G,Benign,NC_000005.10:g.112840256A>G,NM_000038.6(APC):c.4662A>G (p.Glu1554=),3147997,rs2149920450,synonymous variant|non-coding transcript variant
+chr5,112840272,G,T,Pathogenic,NC_000005.10:g.112840272G>T,NM_000038.6(APC):c.4678G>T (p.Glu1560Ter),1370355,rs2149920946,nonsense
+chr5,112840285,T,A,Pathogenic,NC_000005.10:g.112840285T>A,NM_000038.6(APC):c.4691T>A (p.Leu1564Ter),2583431,rs2149921292,nonsense|non-coding transcript variant
+chr5,112840285,T,G,Pathogenic,NC_000005.10:g.112840285T>G,NM_000038.6(APC):c.4691T>G (p.Leu1564Ter),1405926,rs2149921292,nonsense
+chr5,112840294,C,G,Pathogenic,NC_000005.10:g.112840294C>G,NM_000038.6(APC):c.4700C>G (p.Ser1567Ter),960996,rs1765745643,nonsense
+chr5,112840307,T,C,Benign,NC_000005.10:g.112840307T>C,NM_000038.6(APC):c.4713T>C (p.Asp1571=),3148057,rs2149921863,synonymous variant|non-coding transcript variant
+chr5,112840320,G,T,Pathogenic,NC_000005.10:g.112840320G>T,NM_000038.6(APC):c.4726G>T (p.Glu1576Ter),433666,rs1554086134,nonsense
+chr5,112840323,G,T,Pathogenic,NC_000005.10:g.112840323G>T,NM_000038.6(APC):c.4729G>T (p.Glu1577Ter),2583909,rs1356068619,nonsense|non-coding transcript variant
+chr5,112840325,A,G,Benign,NC_000005.10:g.112840325A>G,NM_000038.6(APC):c.4731A>G (p.Glu1577=),3148114,rs2149922318,synonymous variant|non-coding transcript variant
+chr5,112840340,C,G,Benign,NC_000005.10:g.112840340C>G,NM_000038.6(APC):c.4746C>G (p.Ala1582=),3148440,rs2149922717,synonymous variant|non-coding transcript variant
+chr5,112840354,C,A,Pathogenic,NC_000005.10:g.112840354C>A,NM_000038.6(APC):c.4760C>A (p.Ser1587Ter),844002,rs1765760073,nonsense
+chr5,112840357,C,G,Pathogenic,NC_000005.10:g.112840357C>G,NM_000038.6(APC):c.4763C>G (p.Ser1588Ter),3928773,,nonsense|non-coding transcript variant
+chr5,112840380,C,T,Pathogenic,NC_000005.10:g.112840380C>T,NM_000038.6(APC):c.4786C>T (p.Gln1596Ter),3660442,,nonsense|non-coding transcript variant
+chr5,112840388,T,C,Benign,NC_000005.10:g.112840388T>C,NM_000038.6(APC):c.4794T>C (p.Ala1598=),3148305,rs2149923935,synonymous variant|non-coding transcript variant
+chr5,112840390,C,G,Pathogenic,NC_000005.10:g.112840390C>G,NM_000038.6(APC):c.4796C>G (p.Ser1599Ter),469977,rs1554086212,nonsense
+chr5,112840400,T,G,Benign,NC_000005.10:g.112840400T>G,NM_000038.6(APC):c.4806T>G (p.Pro1602=),3148543,rs1160772397,synonymous variant|non-coding transcript variant
+chr5,112840439,C,G,Pathogenic,NC_000005.10:g.112840439C>G,NM_000038.6(APC):c.4845C>G (p.Tyr1615Ter),2583866,rs2533603450,nonsense|non-coding transcript variant
+chr5,112840455,C,T,Pathogenic,NC_000005.10:g.112840455C>T,NM_000038.6(APC):c.4861C>T (p.Gln1621Ter),1743651,rs762533972,nonsense
+chr5,112840473,C,T,Pathogenic,NC_000005.10:g.112840473C>T,NM_000038.6(APC):c.4879C>T (p.Gln1627Ter),2094404,rs1554086263,nonsense
+chr5,112840527,G,T,Pathogenic,NC_000005.10:g.112840527G>T,NM_000038.6(APC):c.4933G>T (p.Glu1645Ter),2584263,rs2533609192,nonsense|non-coding transcript variant
+chr5,112840580,C,A,Benign,NC_000005.10:g.112840580C>A,NM_000038.6(APC):c.4986C>A (p.Ile1662=),3148131,rs876658910,non-coding transcript variant|synonymous variant
+chr5,112840581,G,T,Pathogenic,NC_000005.10:g.112840581G>T,NM_000038.6(APC):c.4987G>T (p.Glu1663Ter),236611,rs758987855,nonsense
+chr5,112840614,G,T,Pathogenic,NC_000005.10:g.112840614G>T,NM_000038.6(APC):c.5020G>T (p.Gly1674Ter),2040107,rs899555020,nonsense
+chr5,112840623,G,T,Pathogenic,NC_000005.10:g.112840623G>T,NM_000038.6(APC):c.5029G>T (p.Gly1677Ter),1390510,rs2149930219,nonsense
+chr5,112840628,G,A,Benign,NC_000005.10:g.112840628G>A,NM_000038.6(APC):c.5034G>A (p.Gly1678=),42243,rs42427,synonymous variant
+chr5,112840640,T,C,Benign,NC_000005.10:g.112840640T>C,NM_000038.6(APC):c.5046T>C (p.Gly1682=),3148425,rs2149930644,synonymous variant|non-coding transcript variant
+chr5,112840653,C,T,Pathogenic,NC_000005.10:g.112840653C>T,NM_000038.6(APC):c.5059C>T (p.Arg1687Ter),537468,rs1554086415,nonsense
+chr5,112840655,A,G,Benign,NC_000005.10:g.112840655A>G,NM_000038.6(APC):c.5061A>G (p.Arg1687=),3148008,rs2149931007,synonymous variant|non-coding transcript variant
+chr5,112840667,T,C,Benign,NC_000005.10:g.112840667T>C,NM_000038.6(APC):c.5073T>C (p.Pro1691=),3148073,rs2149931310,synonymous variant|non-coding transcript variant
+chr5,112840670,A,G,Benign,NC_000005.10:g.112840670A>G,NM_000038.6(APC):c.5076A>G (p.Thr1692=),3148044,rs2149931403,synonymous variant|non-coding transcript variant
+chr5,112840671,G,T,Pathogenic,NC_000005.10:g.112840671G>T,NM_000038.6(APC):c.5077G>T (p.Glu1693Ter),3772920,,nonsense|non-coding transcript variant
+chr5,112840677,A,T,Pathogenic,NC_000005.10:g.112840677A>T,NM_000038.6(APC):c.5083A>T (p.Arg1695Ter),2583246,rs555019540,nonsense|non-coding transcript variant
+chr5,112840685,A,G,Benign,NC_000005.10:g.112840685A>G,NM_000038.6(APC):c.5091A>G (p.Thr1697=),3148309,rs1765844168,synonymous variant|non-coding transcript variant
+chr5,112840695,C,T,Pathogenic,NC_000005.10:g.112840695C>T,NM_000038.6(APC):c.5101C>T (p.Gln1701Ter),853623,rs1561597691,nonsense
+chr5,112840704,A,T,Pathogenic,NC_000005.10:g.112840704A>T,NM_000038.6(APC):c.5110A>T (p.Lys1704Ter),2038624,rs2149932254,nonsense
+chr5,112840760,T,C,Benign,NC_000005.10:g.112840760T>C,NM_000038.6(APC):c.5166T>C (p.Asp1722=),3254459,rs2149933656,synonymous variant|non-coding transcript variant
+chr5,112840766,T,G,Benign,NC_000005.10:g.112840766T>G,NM_000038.6(APC):c.5172T>G (p.Leu1724=),3254015,rs2149933796,synonymous variant|non-coding transcript variant
+chr5,112840787,T,A,Benign,NC_000005.10:g.112840787T>A,NM_000038.6(APC):c.5193T>A (p.Ala1731=),3253869,rs2149934328,synonymous variant|non-coding transcript variant
+chr5,112840814,T,G,Benign,NC_000005.10:g.112840814T>G,NM_000038.6(APC):c.5220T>G (p.Pro1740=),3254085,rs2149935019,synonymous variant|non-coding transcript variant
+chr5,112840814,T,A,Benign,NC_000005.10:g.112840814T>A,NM_000038.6(APC):c.5220T>A (p.Pro1740=),3253843,rs2149935019,synonymous variant|non-coding transcript variant
+chr5,112840843,T,C,Benign,NC_000005.10:g.112840843T>C,NM_000038.6(APC):c.5249T>C (p.Val1750Ala),1746329,rs1437302454,missense variant
+chr5,112840850,A,G,Benign,NC_000005.10:g.112840850A>G,NM_000038.6(APC):c.5256A>G (p.Gln1752=),3254515,rs2149935871,synonymous variant|non-coding transcript variant
+chr5,112840862,T,G,Benign,NC_000005.10:g.112840862T>G,NM_000038.6(APC):c.5268T>G (p.Ser1756=),42245,rs866006,synonymous variant
+chr5,112840874,C,T,Benign,NC_000005.10:g.112840874C>T,NM_000038.6(APC):c.5280C>T (p.Pro1760=),3253980,rs1554086592,synonymous variant|non-coding transcript variant
+chr5,112840934,A,T,Benign,NC_000005.10:g.112840934A>T,NM_000038.6(APC):c.5340A>T (p.Pro1780=),3254144,rs2149937895,synonymous variant|non-coding transcript variant
+chr5,112840935,C,T,Pathogenic,NC_000005.10:g.112840935C>T,NM_000038.6(APC):c.5341C>T (p.Gln1781Ter),469995,rs1554086653,nonsense
+chr5,112840958,T,C,Benign,NC_000005.10:g.112840958T>C,NM_000038.6(APC):c.5364T>C (p.Arg1788=),3254523,rs2149938397,synonymous variant|non-coding transcript variant
+chr5,112840961,A,C,Benign,NC_000005.10:g.112840961A>C,NM_000038.6(APC):c.5367A>C (p.Val1789=),3254206,rs1765934357,synonymous variant|non-coding transcript variant
+chr5,112840990,T,G,Pathogenic,NC_000005.10:g.112840990T>G,NM_000038.6(APC):c.5396T>G (p.Leu1799Ter),2824923,rs2533641270,nonsense|non-coding transcript variant
+chr5,112840997,T,A,Benign,NC_000005.10:g.112840997T>A,NM_000038.6(APC):c.5403T>A (p.Ala1801=),3254175,rs750936426,non-coding transcript variant|synonymous variant
+chr5,112841026,C,G,Pathogenic,NC_000005.10:g.112841026C>G,NM_000038.6(APC):c.5432C>G (p.Ser1811Ter),960787,rs1060503325,nonsense
+chr5,112841059,T,A,Benign,NC_000005.10:g.112841059T>A,NM_000038.6(APC):c.5465T>A (p.Val1822Asp),21030,rs459552,missense variant
+chr5,112841119,C,G,Pathogenic,NC_000005.10:g.112841119C>G,NM_000038.6(APC):c.5525C>G (p.Ser1842Ter),1748091,rs2149942405,nonsense
+chr5,112841119,C,A,Pathogenic,NC_000005.10:g.112841119C>A,NM_000038.6(APC):c.5525C>A (p.Ser1842Ter),1073101,rs2149942405,nonsense
+chr5,112841159,T,A,Pathogenic,NC_000005.10:g.112841159T>A,NM_000038.6(APC):c.5565T>A (p.Cys1855Ter),4861226,,nonsense|non-coding transcript variant
+chr5,112841164,C,G,Pathogenic,NC_000005.10:g.112841164C>G,NM_000038.6(APC):c.5570C>G (p.Ser1857Ter),2583912,rs1561601114,nonsense|non-coding transcript variant
+chr5,112841165,A,G,Benign,NC_000005.10:g.112841165A>G,NM_000038.6(APC):c.5571A>G (p.Ser1857=),3253852,rs376624613,synonymous variant|non-coding transcript variant
+chr5,112841166,C,T,Pathogenic,NC_000005.10:g.112841166C>T,NM_000038.6(APC):c.5572C>T (p.Arg1858Ter),486765,rs1270783041,nonsense
+chr5,112841186,T,C,Benign,NC_000005.10:g.112841186T>C,NM_000038.6(APC):c.5592T>C (p.Ser1864=),3254526,rs2149944064,synonymous variant|non-coding transcript variant
+chr5,112841219,C,T,Benign,NC_000005.10:g.112841219C>T,NM_000038.6(APC):c.5625C>T (p.Ser1875=),3253859,rs2149944965,synonymous variant|non-coding transcript variant
+chr5,112841238,A,T,Pathogenic,NC_000005.10:g.112841238A>T,NM_000038.6(APC):c.5644A>T (p.Arg1882Ter),1355732,rs2149945442,nonsense
+chr5,112841249,A,G,Benign,NC_000005.10:g.112841249A>G,NM_000038.6(APC):c.5655A>G (p.Lys1885=),3253766,rs2149945704,synonymous variant|non-coding transcript variant
+chr5,112841279,C,A,Benign,NC_000005.10:g.112841279C>A,NM_000038.6(APC):c.5685C>A (p.Thr1895=),3253920,rs148592182,synonymous variant|non-coding transcript variant
+chr5,112841282,C,T,Benign,NC_000005.10:g.112841282C>T,NM_000038.6(APC):c.5688C>T (p.Ser1896=),3253765,rs1561601778,synonymous variant|non-coding transcript variant
+chr5,112841311,C,G,Pathogenic,NC_000005.10:g.112841311C>G,NM_000038.6(APC):c.5717C>G (p.Ser1906Ter),1749264,rs2149947321,nonsense
+chr5,112841321,G,A,Benign,NC_000005.10:g.112841321G>A,NM_000038.6(APC):c.5727G>A (p.Lys1909=),3254462,rs2149947586,synonymous variant|non-coding transcript variant
+chr5,112841339,G,C,Benign,NC_000005.10:g.112841339G>C,NM_000038.6(APC):c.5745G>C (p.Lys1915Asn),1237153,rs201988789,missense variant
+chr5,112841357,T,C,Benign,NC_000005.10:g.112841357T>C,NM_000038.6(APC):c.5763T>C (p.Gly1921=),3253998,rs2149948571,synonymous variant|non-coding transcript variant
+chr5,112841358,C,T,Pathogenic,NC_000005.10:g.112841358C>T,NM_000038.6(APC):c.5764C>T (p.Gln1922Ter),418010,rs1064793024,nonsense
+chr5,112841397,C,T,Pathogenic,NC_000005.10:g.112841397C>T,NM_000038.6(APC):c.5803C>T (p.Gln1935Ter),1749795,rs2149949620,nonsense
+chr5,112841438,T,C,Benign,NC_000005.10:g.112841438T>C,NM_000038.6(APC):c.5844T>C (p.Asp1948=),3253975,rs1766064051,synonymous variant|non-coding transcript variant
+chr5,112841448,C,T,Pathogenic,NC_000005.10:g.112841448C>T,NM_000038.6(APC):c.5854C>T (p.Gln1952Ter),2584250,rs1166934042,nonsense|non-coding transcript variant
+chr5,112841474,G,A,Benign,NC_000005.10:g.112841474G>A,NM_000038.6(APC):c.5880G>A (p.Pro1960=),42247,rs465899,synonymous variant
+chr5,112841483,T,C,Benign,NC_000005.10:g.112841483T>C,NM_000038.6(APC):c.5889T>C (p.Phe1963=),3254463,rs2149951887,synonymous variant|non-coding transcript variant
+chr5,112841495,C,G,Benign,NC_000005.10:g.112841495C>G,NM_000038.6(APC):c.5901C>G (p.Ser1967=),3254464,rs1561603572,synonymous variant|non-coding transcript variant
+chr5,112841501,G,A,Benign,NC_000005.10:g.112841501G>A,NM_000038.6(APC):c.5907G>A (p.Leu1969=),3253783,rs200881543,synonymous variant|non-coding transcript variant
+chr5,112841538,A,T,Pathogenic,NC_000005.10:g.112841538A>T,NM_000038.6(APC):c.5944A>T (p.Lys1982Ter),233824,rs876660665,nonsense
+chr5,112841547,G,T,Pathogenic,NC_000005.10:g.112841547G>T,NM_000038.6(APC):c.5953G>T (p.Glu1985Ter),2134377,rs1561604028,nonsense
+chr5,112841552,T,C,Benign,NC_000005.10:g.112841552T>C,NM_000038.6(APC):c.5958T>C (p.Pro1986=),3254514,rs1580666062,synonymous variant|non-coding transcript variant
+chr5,112841582,G,A,Benign,NC_000005.10:g.112841582G>A,NM_000038.6(APC):c.5988G>A (p.Gln1996=),3253847,rs2149954314,synonymous variant|non-coding transcript variant
+chr5,112841591,A,G,Benign,NC_000005.10:g.112841591A>G,NM_000038.6(APC):c.5997A>G (p.Pro1999=),3254052,rs1766109898,synonymous variant|non-coding transcript variant
+chr5,112841618,T,C,Benign,NC_000005.10:g.112841618T>C,NM_000038.6(APC):c.6024T>C (p.Ala2008=),3254446,rs2149955147,synonymous variant|non-coding transcript variant
+chr5,112841645,C,T,Benign,NC_000005.10:g.112841645C>T,NM_000038.6(APC):c.6051C>T (p.Thr2017=),3053781,rs2149955763,synonymous variant|non-coding transcript variant
+chr5,112841659,C,G,Pathogenic,NC_000005.10:g.112841659C>G,NM_000038.6(APC):c.6065C>G (p.Ser2022Ter),470034,rs1554087174,nonsense
+chr5,112841681,T,A,Benign,NC_000005.10:g.112841681T>A,NM_000038.6(APC):c.6087T>A (p.Ser2029=),3254233,rs1554087193,synonymous variant|non-coding transcript variant
+chr5,112841712,C,T,Pathogenic,NC_000005.10:g.112841712C>T,NM_000038.6(APC):c.6118C>T (p.Gln2040Ter),3148150,rs1561605138,nonsense|non-coding transcript variant
+chr5,112841715,G,T,Pathogenic,NC_000005.10:g.112841715G>T,NM_000038.6(APC):c.6121G>T (p.Glu2041Ter),2584241,rs1561605162,nonsense|non-coding transcript variant
+chr5,112841759,A,G,Benign,NC_000005.10:g.112841759A>G,NM_000038.6(APC):c.6165A>G (p.Arg2055=),3253974,rs2149958650,synonymous variant|non-coding transcript variant
+chr5,112841763,A,T,Pathogenic,NC_000005.10:g.112841763A>T,NM_000038.6(APC):c.6169A>T (p.Lys2057Ter),2584325,rs1561605597,nonsense|non-coding transcript variant
+chr5,112841807,A,C,Benign,NC_000005.10:g.112841807A>C,NM_000038.6(APC):c.6213A>C (p.Ile2071=),3254466,rs876660358,synonymous variant|non-coding transcript variant
+chr5,112841808,T,C,Benign,NC_000005.10:g.112841808T>C,NM_000038.6(APC):c.6214T>C (p.Leu2072=),3254426,rs2149959828,synonymous variant|non-coding transcript variant
+chr5,112841809,T,G,Pathogenic,NC_000005.10:g.112841809T>G,NM_000038.6(APC):c.6215T>G (p.Leu2072Ter),2583325,rs2533698639,nonsense|non-coding transcript variant
+chr5,112841881,C,A,Pathogenic,NC_000005.10:g.112841881C>A,NM_000038.6(APC):c.6287C>A (p.Ser2096Ter),2583539,rs1561606344,nonsense|non-coding transcript variant
+chr5,112841897,G,A,Pathogenic,NC_000005.10:g.112841897G>A,NM_000038.6(APC):c.6303G>A (p.Trp2101Ter),2584225,rs2149961882,nonsense|non-coding transcript variant
+chr5,112841933,T,C,Benign,NC_000005.10:g.112841933T>C,NM_000038.6(APC):c.6339T>C (p.Ser2113=),3253748,rs2149962644,synonymous variant|non-coding transcript variant
+chr5,112841938,T,A,Pathogenic,NC_000005.10:g.112841938T>A,NM_000038.6(APC):c.6344T>A (p.Leu2115Ter),948528,rs876659022,nonsense
+chr5,112841938,T,G,Pathogenic,NC_000005.10:g.112841938T>G,NM_000038.6(APC):c.6344T>G (p.Leu2115Ter),231203,rs876659022,nonsense
+chr5,112841948,T,C,Benign,NC_000005.10:g.112841948T>C,NM_000038.6(APC):c.6354T>C (p.Ala2118=),3253878,rs2149963026,synonymous variant|non-coding transcript variant
+chr5,112841964,T,C,Benign,NC_000005.10:g.112841964T>C,NM_000038.6(APC):c.6370T>C (p.Leu2124=),3254468,rs1182203916,synonymous variant|non-coding transcript variant
+chr5,112841965,T,A,Pathogenic,NC_000005.10:g.112841965T>A,NM_000038.6(APC):c.6371T>A (p.Leu2124Ter),371855,rs1057517568,nonsense
+chr5,112841984,T,C,Benign,NC_000005.10:g.112841984T>C,NM_000038.6(APC):c.6390T>C (p.Ser2130=),3254467,rs2533711344,synonymous variant|non-coding transcript variant
+chr5,112842008,G,T,Benign,NC_000005.10:g.112842008G>T,NM_000038.6(APC):c.6414G>T (p.Leu2138=),3253889,rs1554087414,synonymous variant|non-coding transcript variant
+chr5,112842013,C,G,Pathogenic,NC_000005.10:g.112842013C>G,NM_000038.6(APC):c.6419C>G (p.Ser2140Ter),2584278,rs2149964478,nonsense|non-coding transcript variant
+chr5,112842026,G,A,Benign,NC_000005.10:g.112842026G>A,NM_000038.6(APC):c.6432G>A (p.Leu2144=),3253860,rs1580670718,synonymous variant|non-coding transcript variant
+chr5,112842031,C,A,Pathogenic,NC_000005.10:g.112842031C>A,NM_000038.6(APC):c.6437C>A (p.Ser2146Ter),2583509,rs2149964888,nonsense|non-coding transcript variant
+chr5,112842050,T,G,Benign,NC_000005.10:g.112842050T>G,NM_000038.6(APC):c.6456T>G (p.Pro2152=),3254089,rs2149965301,synonymous variant|non-coding transcript variant
+chr5,112842090,C,T,Pathogenic,NC_000005.10:g.112842090C>T,NM_000038.6(APC):c.6496C>T (p.Arg2166Ter),438883,rs764527706,nonsense
+chr5,112842092,A,T,Benign,NC_000005.10:g.112842092A>T,NM_000038.6(APC):c.6498A>T (p.Arg2166=),3254082,rs2149966269,synonymous variant|non-coding transcript variant
+chr5,112842095,T,A,Benign,NC_000005.10:g.112842095T>A,NM_000038.6(APC):c.6501T>A (p.Ile2167=),3254208,rs2149966338,synonymous variant|non-coding transcript variant
+chr5,112842108,G,T,Pathogenic,NC_000005.10:g.112842108G>T,NM_000038.6(APC):c.6514G>T (p.Glu2172Ter),1697527,rs864622314,nonsense
+chr5,112842168,A,T,Pathogenic,NC_000005.10:g.112842168A>T,NM_000038.6(APC):c.6574A>T (p.Lys2192Ter),2584114,rs756512551,nonsense|non-coding transcript variant
+chr5,112842176,T,G,Benign,NC_000005.10:g.112842176T>G,NM_000038.6(APC):c.6582T>G (p.Val2194=),3254088,rs2149968194,synonymous variant|non-coding transcript variant
+chr5,112842180,A,T,Pathogenic,NC_000005.10:g.112842180A>T,NM_000038.6(APC):c.6586A>T (p.Lys2196Ter),2584198,rs864622102,nonsense|non-coding transcript variant
+chr5,112842214,C,A,Pathogenic,NC_000005.10:g.112842214C>A,NM_000038.6(APC):c.6620C>A (p.Ser2207Ter),2584143,rs758337476,nonsense|non-coding transcript variant
+chr5,112842216,G,T,Pathogenic,NC_000005.10:g.112842216G>T,NM_000038.6(APC):c.6622G>T (p.Glu2208Ter),3728675,,nonsense|non-coding transcript variant
+chr5,112842228,C,T,Pathogenic,NC_000005.10:g.112842228C>T,NM_000038.6(APC):c.6634C>T (p.Gln2212Ter),4718794,,nonsense|non-coding transcript variant
+chr5,112842251,A,C,Benign,NC_000005.10:g.112842251A>C,NM_000038.6(APC):c.6657A>C (p.Ala2219=),3254156,rs2149969953,synonymous variant|non-coding transcript variant
+chr5,112842276,A,C,Benign,NC_000005.10:g.112842276A>C,NM_000038.6(APC):c.6682A>C (p.Arg2228=),3254469,rs199648202,synonymous variant|non-coding transcript variant
+chr5,112842296,A,C,Benign,NC_000005.10:g.112842296A>C,NM_000038.6(APC):c.6702A>C (p.Pro2234=),3254470,rs1580673747,synonymous variant|non-coding transcript variant
+chr5,112842299,A,C,Benign,NC_000005.10:g.112842299A>C,NM_000038.6(APC):c.6705A>C (p.Gly2235=),3254471,rs2149971111,synonymous variant|non-coding transcript variant
+chr5,112842336,A,T,Pathogenic,NC_000005.10:g.112842336A>T,NM_000038.6(APC):c.6742A>T (p.Lys2248Ter),826596,rs1580674179,nonsense
+chr5,112842344,C,G,Benign,NC_000005.10:g.112842344C>G,NM_000038.6(APC):c.6750C>G (p.Gly2250=),3254314,rs555799753,synonymous variant|non-coding transcript variant
+chr5,112842350,C,T,Benign,NC_000005.10:g.112842350C>T,NM_000038.6(APC):c.6756C>T (p.Pro2252=),3254133,rs2149972433,synonymous variant|non-coding transcript variant
+chr5,112842356,G,A,Benign,NC_000005.10:g.112842356G>A,NM_000038.6(APC):c.6762G>A (p.Lys2254=),3254016,rs2149972531,synonymous variant|non-coding transcript variant
+chr5,112842416,C,G,Benign,NC_000005.10:g.112842416C>G,NM_000038.6(APC):c.6822C>G (p.Ala2274=),3254346,rs2149974045,synonymous variant|non-coding transcript variant
+chr5,112842417,A,T,Pathogenic,NC_000005.10:g.112842417A>T,NM_000038.6(APC):c.6823A>T (p.Lys2275Ter),3387040,,nonsense|non-coding transcript variant
+chr5,112842429,A,T,Pathogenic,NC_000005.10:g.112842429A>T,NM_000038.6(APC):c.6835A>T (p.Lys2279Ter),1455213,rs2149974329,nonsense
+chr5,112842464,C,T,Benign,NC_000005.10:g.112842464C>T,NM_000038.6(APC):c.6870C>T (p.Ser2290=),3254441,rs2149975117,synonymous variant|non-coding transcript variant
+chr5,112842465,C,T,Pathogenic,NC_000005.10:g.112842465C>T,NM_000038.6(APC):c.6871C>T (p.Gln2291Ter),565981,rs1561610839,nonsense
+chr5,112842476,G,A,Benign,NC_000005.10:g.112842476G>A,NM_000038.6(APC):c.6882G>A (p.Gly2294=),3254087,rs2149975377,synonymous variant|non-coding transcript variant
+chr5,112842500,A,G,Benign,NC_000005.10:g.112842500A>G,NM_000038.6(APC):c.6906A>G (p.Ser2302=),3254054,rs1766330352,synonymous variant|non-coding transcript variant
+chr5,112842514,C,A,Pathogenic,NC_000005.10:g.112842514C>A,NM_000038.6(APC):c.6920C>A (p.Ser2307Ter),1355519,rs901983934,nonsense
+chr5,112842518,C,G,Benign,NC_000005.10:g.112842518C>G,NM_000038.6(APC):c.6924C>G (p.Thr2308=),3254436,rs1580676369,synonymous variant|non-coding transcript variant
+chr5,112842521,T,G,Benign,NC_000005.10:g.112842521T>G,NM_000038.6(APC):c.6927T>G (p.Pro2309=),3254091,rs2149976432,synonymous variant|non-coding transcript variant
+chr5,112842524,A,G,Benign,NC_000005.10:g.112842524A>G,NM_000038.6(APC):c.6930A>G (p.Ser2310=),3253884,rs2149976488,synonymous variant|non-coding transcript variant
+chr5,112842534,C,T,Pathogenic,NC_000005.10:g.112842534C>T,NM_000038.6(APC):c.6940C>T (p.Gln2314Ter),2584332,rs2149976768,nonsense|non-coding transcript variant
+chr5,112842537,C,T,Pathogenic,NC_000005.10:g.112842537C>T,NM_000038.6(APC):c.6943C>T (p.Gln2315Ter),4856772,,nonsense|non-coding transcript variant
+chr5,112842544,T,G,Pathogenic,NC_000005.10:g.112842544T>G,NM_000038.6(APC):c.6950T>G (p.Leu2317Ter),2584286,rs560565848,nonsense|non-coding transcript variant
+chr5,112842577,C,G,Pathogenic,NC_000005.10:g.112842577C>G,NM_000038.6(APC):c.6983C>G (p.Ser2328Ter),2584220,rs1766347750,nonsense|non-coding transcript variant
+chr5,112842590,T,G,Benign,NC_000005.10:g.112842590T>G,NM_000038.6(APC):c.6996T>G (p.Gly2332=),3254353,rs2149977879,synonymous variant|non-coding transcript variant
+chr5,112842641,A,G,Benign,NC_000005.10:g.112842641A>G,NM_000038.6(APC):c.7047A>G (p.Ser2349=),3253914,rs1274342268,synonymous variant|non-coding transcript variant
+chr5,112842658,C,A,Pathogenic,NC_000005.10:g.112842658C>A,NM_000038.6(APC):c.7064C>A (p.Ser2355Ter),2811182,rs1766367247,nonsense|non-coding transcript variant
+chr5,112842663,A,T,Pathogenic,NC_000005.10:g.112842663A>T,NM_000038.6(APC):c.7069A>T (p.Lys2357Ter),639574,rs1554087972,nonsense
+chr5,112842708,C,T,Pathogenic,NC_000005.10:g.112842708C>T,NM_000038.6(APC):c.7114C>T (p.Gln2372Ter),826849,rs1580678722,nonsense
+chr5,112842745,T,G,Pathogenic,NC_000005.10:g.112842745T>G,NM_000038.6(APC):c.7151T>G (p.Leu2384Ter),1757401,rs2533772392,nonsense
+chr5,112842752,G,A,Benign,NC_000005.10:g.112842752G>A,NM_000038.6(APC):c.7158G>A (p.Lys2386=),3254472,rs1766393148,synonymous variant|non-coding transcript variant
+chr5,112842854,T,G,Benign,NC_000005.10:g.112842854T>G,NM_000038.6(APC):c.7260T>G (p.Ser2420=),3254092,rs755501155,synonymous variant|non-coding transcript variant
+chr5,112842865,C,G,Pathogenic,NC_000005.10:g.112842865C>G,NM_000038.6(APC):c.7271C>G (p.Ser2424Ter),482410,rs1554088206,nonsense
+chr5,112842889,C,G,Pathogenic,NC_000005.10:g.112842889C>G,NM_000038.6(APC):c.7295C>G (p.Ser2432Ter),826949,rs1580680919,nonsense
+chr5,112842912,C,T,Pathogenic,NC_000005.10:g.112842912C>T,NM_000038.6(APC):c.7318C>T (p.Gln2440Ter),2584160,rs1270166239,nonsense|non-coding transcript variant
+chr5,112842930,G,T,Pathogenic,NC_000005.10:g.112842930G>T,NM_000038.6(APC):c.7336G>T (p.Glu2446Ter),2583391,rs2149984801,nonsense|non-coding transcript variant
+chr5,112842949,T,G,Pathogenic,NC_000005.10:g.112842949T>G,NM_000038.6(APC):c.7355T>G (p.Leu2452Ter),2583188,rs2533786957,nonsense|non-coding transcript variant
+chr5,112842954,A,C,Benign,NC_000005.10:g.112842954A>C,NM_000038.6(APC):c.7360A>C (p.Arg2454=),3254061,rs2149985312,synonymous variant|non-coding transcript variant
+chr5,112842974,T,A,Benign,NC_000005.10:g.112842974T>A,NM_000038.6(APC):c.7380T>A (p.Ala2460=),3254060,rs1060504889,synonymous variant|non-coding transcript variant
+chr5,112842981,G,T,Pathogenic,NC_000005.10:g.112842981G>T,NM_000038.6(APC):c.7387G>T (p.Glu2463Ter),2584242,rs775437110,nonsense|non-coding transcript variant
+chr5,112842992,T,C,Benign,NC_000005.10:g.112842992T>C,NM_000038.6(APC):c.7398T>C (p.Ser2466=),3253746,rs1766465840,synonymous variant|non-coding transcript variant
+chr5,112843001,T,G,Benign,NC_000005.10:g.112843001T>G,NM_000038.6(APC):c.7407T>G (p.Ser2469=),3254093,rs1282202968,synonymous variant|non-coding transcript variant
+chr5,112843032,C,T,Pathogenic,NC_000005.10:g.112843032C>T,NM_000038.6(APC):c.7438C>T (p.Gln2480Ter),537540,rs1554088359,nonsense
+chr5,112843040,A,G,Benign,NC_000005.10:g.112843040A>G,NM_000038.6(APC):c.7446A>G (p.Pro2482=),3253970,rs780091029,synonymous variant|non-coding transcript variant
+chr5,112843071,C,T,Benign,NC_000005.10:g.112843071C>T,NM_000038.6(APC):c.7477C>T (p.Leu2493=),3254474,rs2149987883,synonymous variant|non-coding transcript variant
+chr5,112843092,C,T,Pathogenic,NC_000005.10:g.112843092C>T,NM_000038.6(APC):c.7498C>T (p.Gln2500Ter),572005,rs372535376,nonsense
+chr5,112843103,A,T,Benign,NC_000005.10:g.112843103A>T,NM_000038.6(APC):c.7509A>T (p.Gly2503=),3254146,rs1580683429,synonymous variant|non-coding transcript variant
+chr5,112843106,G,A,Pathogenic,NC_000005.10:g.112843106G>A,NM_000038.6(APC):c.7512G>A (p.Trp2504Ter),482304,rs1554088413,nonsense
+chr5,112843118,A,C,Benign,NC_000005.10:g.112843118A>C,NM_000038.6(APC):c.7524A>C (p.Pro2508=),3253919,rs2149988898,synonymous variant|non-coding transcript variant
+chr5,112843181,A,C,Benign,NC_000005.10:g.112843181A>C,NM_000038.6(APC):c.7587A>C (p.Ala2529=),3253918,rs2149990140,synonymous variant|non-coding transcript variant
+chr5,112843214,A,G,Benign,NC_000005.10:g.112843214A>G,NM_000038.6(APC):c.7620A>G (p.Pro2540=),3253868,rs2149990704,synonymous variant|non-coding transcript variant
+chr5,112843232,C,A,Benign,NC_000005.10:g.112843232C>A,NM_000038.6(APC):c.7638C>A (p.Thr2546=),3254475,rs1320719611,synonymous variant|non-coding transcript variant
+chr5,112843258,C,G,Pathogenic,NC_000005.10:g.112843258C>G,NM_000038.6(APC):c.7664C>G (p.Ser2555Ter),3379268,,nonsense|non-coding transcript variant
+chr5,112843298,A,G,Benign,NC_000005.10:g.112843298A>G,NM_000038.6(APC):c.7704A>G (p.Gly2568=),42250,rs35043160,synonymous variant
+chr5,112843303,C,A,Pathogenic,NC_000005.10:g.112843303C>A,NM_000038.6(APC):c.7709C>A (p.Ser2570Ter),2583886,rs1561617778,nonsense|non-coding transcript variant
+chr5,112843303,C,G,Pathogenic,NC_000005.10:g.112843303C>G,NM_000038.6(APC):c.7709C>G (p.Ser2570Ter),628123,rs1561617778,nonsense
+chr5,112843304,A,G,Benign,NC_000005.10:g.112843304A>G,NM_000038.6(APC):c.7710A>G (p.Ser2570=),3253841,rs2149992368,synonymous variant|non-coding transcript variant
+chr5,112843309,C,A,Pathogenic,NC_000005.10:g.112843309C>A,NM_000038.6(APC):c.7715C>A (p.Ser2572Ter),1418569,rs876659280,nonsense
+chr5,112843327,C,G,Pathogenic,NC_000005.10:g.112843327C>G,NM_000038.6(APC):c.7733C>G (p.Ser2578Ter),2583489,rs2149992847,nonsense|non-coding transcript variant
+chr5,112843359,G,T,Pathogenic,NC_000005.10:g.112843359G>T,NM_000038.6(APC):c.7765G>T (p.Glu2589Ter),2583360,rs2533817849,nonsense|non-coding transcript variant
+chr5,112843364,A,G,Benign,NC_000005.10:g.112843364A>G,NM_000038.6(APC):c.7770A>G (p.Lys2590=),3253851,rs1766563090,synonymous variant|non-coding transcript variant
+chr5,112843382,A,G,Benign,NC_000005.10:g.112843382A>G,NM_000038.6(APC):c.7788A>G (p.Ser2596=),3254452,rs2149993864,synonymous variant|non-coding transcript variant
+chr5,112843427,A,T,Benign,NC_000005.10:g.112843427A>T,NM_000038.6(APC):c.7833A>T (p.Thr2611=),3253941,rs1057520909,synonymous variant|non-coding transcript variant
+chr5,112843430,G,A,Pathogenic,NC_000005.10:g.112843430G>A,NM_000038.6(APC):c.7836G>A (p.Trp2612Ter),3643518,,nonsense|non-coding transcript variant
+chr5,112843451,A,G,Benign,NC_000005.10:g.112843451A>G,NM_000038.6(APC):c.7857A>G (p.Glu2619=),3254448,rs2149994983,synonymous variant|non-coding transcript variant
+chr5,112843456,C,G,Benign,NC_000005.10:g.112843456C>G,NM_000038.6(APC):c.7862C>G (p.Ser2621Cys),41516,rs72541816,missense variant
+chr5,112843469,T,C,Benign,NC_000005.10:g.112843469T>C,NM_000038.6(APC):c.7875T>C (p.Ser2625=),3254476,rs2149995309,synonymous variant|non-coding transcript variant
+chr5,112843490,A,C,Benign,NC_000005.10:g.112843490A>C,NM_000038.6(APC):c.7896A>C (p.Ser2632=),3254232,rs779015041,synonymous variant|non-coding transcript variant
+chr5,112843509,G,T,Pathogenic,NC_000005.10:g.112843509G>T,NM_000038.6(APC):c.7915G>T (p.Glu2639Ter),3655971,,nonsense|non-coding transcript variant
+chr5,112843530,C,T,Pathogenic,NC_000005.10:g.112843530C>T,NM_000038.6(APC):c.7936C>T (p.Gln2646Ter),2584295,rs1554088768,nonsense|non-coding transcript variant
+chr5,112843541,T,C,Benign,NC_000005.10:g.112843541T>C,NM_000038.6(APC):c.7947T>C (p.Pro2649=),3254115,rs2149996772,synonymous variant|non-coding transcript variant
+chr5,112843544,T,G,Benign,NC_000005.10:g.112843544T>G,NM_000038.6(APC):c.7950T>G (p.Ala2650=),3254094,rs1554088784,synonymous variant|non-coding transcript variant
+chr5,112843616,T,C,Benign,NC_000005.10:g.112843616T>C,NM_000038.6(APC):c.8022T>C (p.Ser2674=),3254477,rs2533838368,synonymous variant|non-coding transcript variant
+chr5,112843622,A,G,Benign,NC_000005.10:g.112843622A>G,NM_000038.6(APC):c.8028A>G (p.Thr2676=),3253883,rs2149998111,synonymous variant|non-coding transcript variant
+chr5,112843625,T,G,Benign,NC_000005.10:g.112843625T>G,NM_000038.6(APC):c.8031T>G (p.Gly2677=),3254097,rs2533839146,synonymous variant|non-coding transcript variant
+chr5,112843628,T,C,Benign,NC_000005.10:g.112843628T>C,NM_000038.6(APC):c.8034T>C (p.Asn2678=),3253963,rs765457258,synonymous variant|non-coding transcript variant
+chr5,112843631,T,G,Benign,NC_000005.10:g.112843631T>G,NM_000038.6(APC):c.8037T>G (p.Thr2679=),3254124,rs2149998232,synonymous variant|non-coding transcript variant
+chr5,112843670,A,G,Benign,NC_000005.10:g.112843670A>G,NM_000038.6(APC):c.8076A>G (p.Pro2692=),3253814,rs2149998853,synonymous variant|non-coding transcript variant
+chr5,112843685,A,T,Benign,NC_000005.10:g.112843685A>T,NM_000038.6(APC):c.8091A>T (p.Ser2697=),3254258,rs2149999087,synonymous variant|non-coding transcript variant
+chr5,112843736,T,C,Benign,NC_000005.10:g.112843736T>C,NM_000038.6(APC):c.8142T>C (p.Arg2714=),3254478,rs2149999916,synonymous variant|non-coding transcript variant
+chr5,112843749,G,T,Pathogenic,NC_000005.10:g.112843749G>T,NM_000038.6(APC):c.8155G>T (p.Glu2719Ter),1762202,rs2533848206,nonsense
+chr5,112843766,C,T,Benign,NC_000005.10:g.112843766C>T,NM_000038.6(APC):c.8172C>T (p.Ser2724=),3254479,rs2150000409,synonymous variant|non-coding transcript variant
+chr5,112843799,A,T,Benign,NC_000005.10:g.112843799A>T,NM_000038.6(APC):c.8205A>T (p.Gly2735=),3254145,rs2150000966,synonymous variant|non-coding transcript variant
+chr5,112843805,G,A,Benign,NC_000005.10:g.112843805G>A,NM_000038.6(APC):c.8211G>A (p.Glu2737=),3254481,rs1366190280,synonymous variant|non-coding transcript variant
+chr5,112843817,A,T,Benign,NC_000005.10:g.112843817A>T,NM_000038.6(APC):c.8223A>T (p.Gly2741=),3253770,rs1580691326,synonymous variant|non-coding transcript variant
+chr5,112843823,T,C,Benign,NC_000005.10:g.112843823T>C,NM_000038.6(APC):c.8229T>C (p.Asn2743=),3254004,rs1561621557,synonymous variant|non-coding transcript variant
+chr5,112843826,T,C,Benign,NC_000005.10:g.112843826T>C,NM_000038.6(APC):c.8232T>C (p.Asn2744=),3253901,rs2533853709,synonymous variant|non-coding transcript variant
+chr5,112843835,T,C,Benign,NC_000005.10:g.112843835T>C,NM_000038.6(APC):c.8241T>C (p.Pro2747=),3253816,rs1060504875,synonymous variant|non-coding transcript variant
+chr5,112843849,A,C,Benign,NC_000005.10:g.112843849A>C,NM_000038.6(APC):c.8255A>C (p.Asn2752Thr),236654,rs878853474,missense variant
+chr5,112843865,G,A,Benign,NC_000005.10:g.112843865G>A,NM_000038.6(APC):c.8271G>A (p.Val2757=),3253837,rs1356289612,synonymous variant|non-coding transcript variant
+chr5,112843919,G,C,Benign,NC_000005.10:g.112843919G>C,NM_000038.6(APC):c.8325G>C (p.Gly2775=),3254217,rs770719841,synonymous variant|non-coding transcript variant
+chr5,112843949,T,C,Benign,NC_000005.10:g.112843949T>C,NM_000038.6(APC):c.8355T>C (p.Asn2785=),3254149,rs2150003843,synonymous variant|non-coding transcript variant
+chr5,112843958,A,G,Benign,NC_000005.10:g.112843958A>G,NM_000038.6(APC):c.8364A>G (p.Pro2788=),3254480,rs2150004050,synonymous variant|non-coding transcript variant
+chr5,112843964,T,C,Benign,NC_000005.10:g.112843964T>C,NM_000038.6(APC):c.8370T>C (p.Pro2790=),3253805,rs2150004153,synonymous variant|non-coding transcript variant
+chr5,112844039,G,A,Benign,NC_000005.10:g.112844039G>A,NM_000038.6(APC):c.8445G>A (p.Lys2815=),3253747,rs1554089157,synonymous variant|non-coding transcript variant
+chr5,112844054,T,C,Benign,NC_000005.10:g.112844054T>C,NM_000038.6(APC):c.8460T>C (p.Thr2820=),3253893,rs2150005790,synonymous variant|non-coding transcript variant
+chr5,112844093,C,T,Benign,NC_000005.10:g.112844093C>T,NM_000038.6(APC):c.8499C>T (p.Arg2833=),3254533,rs757921527,synonymous variant|non-coding transcript variant
+chr5,112844099,T,A,Benign,NC_000005.10:g.112844099T>A,NM_000038.6(APC):c.8505T>A (p.Ser2835=),3254181,rs2533872902,synonymous variant|non-coding transcript variant
+chr5,112844108,C,T,Benign,NC_000005.10:g.112844108C>T,NM_000038.6(APC):c.8514C>T (p.Tyr2838=),3253972,rs876660375,synonymous variant|non-coding transcript variant
+chr5,112844120,T,A,Benign,NC_000005.10:g.112844120T>A,NM_000038.6(APC):c.8526T>A (p.Ser2842=),3254166,rs1766771863,synonymous variant|non-coding transcript variant
+chr5,112844123,T,G,Benign,NC_000005.10:g.112844123T>G,NM_000038.6(APC):c.8529T>G (p.Val2843=),3254228,rs2533874526,synonymous variant|non-coding transcript variant
+chr5,112844124,T,C,Pathogenic,NC_000005.10:g.112844124T>C,NM_000038.6(APC):c.8530T>C (p.Ter2844Gln),3881072,,stop lost|non-coding transcript variant
+chr5,112844133,G,C,Benign,NC_000005.10:g.112844133G>C,NM_000038.6(APC):c.*7G>C,3378914,,3 prime UTR variant|non-coding transcript variant
+chr5,112844135,A,C,Benign,NC_000005.10:g.112844135A>C,NM_000038.6(APC):c.*9A>C,3379007,,3 prime UTR variant|non-coding transcript variant
+chr5,112844136,A,C,Benign,NC_000005.10:g.112844136A>C,NM_000038.6(APC):c.*10A>C,3378832,,3 prime UTR variant|non-coding transcript variant
+chr5,112844212,C,A,Benign,NC_000005.10:g.112844212C>A,NM_000038.6(APC):c.*86C>A,83252,rs1804197,3 prime UTR variant
+chr5,112844374,A,G,Benign,NC_000005.10:g.112844374A>G,NM_000038.6(APC):c.*248A>G,220856,rs186777258,3 prime UTR variant
+chr5,112844392,C,A,Benign,NC_000005.10:g.112844392C>A,NM_000038.6(APC):c.*266C>A,350428,rs191347307,3 prime UTR variant
+chr5,112844560,C,T,Benign,NC_000005.10:g.112844560C>T,NM_000038.6(APC):c.*434C>T,83257,rs12189,3 prime UTR variant
+chr5,112844781,G,T,Benign,NC_000005.10:g.112844781G>T,NM_000038.6(APC):c.*655G>T,904161,rs114463799,3 prime UTR variant
+chr5,112845176,T,C,Benign,NC_000005.10:g.112845176T>C,NM_000038.6(APC):c.*1050T>C,350439,rs17135042,3 prime UTR variant
+chr5,112845224,T,C,Benign,NC_000005.10:g.112845224T>C,NM_000038.6(APC):c.*1098T>C,83260,rs41116,3 prime UTR variant
+chr5,112845290,G,A,Benign,NC_000005.10:g.112845290G>A,NM_000038.6(APC):c.*1164G>A,350441,rs576186544,3 prime UTR variant
+chr5,112845329,A,C,Benign,NC_000005.10:g.112845329A>C,NM_000038.6(APC):c.*1203A>C,350442,rs6594650,3 prime UTR variant
+chr5,112845586,C,T,Benign,NC_000005.10:g.112845586C>T,NM_000038.6(APC):c.*1460C>T,83261,rs3733961,3 prime UTR variant
+chr5,112845682,C,G,Benign,NC_000005.10:g.112845682C>G,NM_000038.6(APC):c.*1556C>G,83262,rs448475,3 prime UTR variant
+chr5,112845879,G,A,Benign,NC_000005.10:g.112845879G>A,NM_000038.6(APC):c.*1753G>A,83263,rs397768,3 prime UTR variant
+chr5,112846044,G,C,Benign,NC_000005.10:g.112846044G>C,NM_000038.6(APC):c.*1918G>C,907549,rs185342287,3 prime UTR variant
+chr5,112846131,T,G,Benign,NC_000005.10:g.112846131T>G,NM_000038.6(APC):c.*2005T>G,350455,rs559244186,3 prime UTR variant
